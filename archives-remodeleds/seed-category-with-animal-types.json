@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Brinquedos para cachorro",
+    "slug": "brinquedosparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Ração para cachorro",
+    "slug": "racaoparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Medicamentos para peixes",
+    "slug": "medicamentosparapeixes",
+    "animalTypeSlug": "peixes"
+  },
+  {
+    "name": "Roupas para cachorro",
+    "slug": "roupasparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Suplementos e vitaminas para cachorro",
+    "slug": "suplementosevitaminasparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Petiscos e Ossos para cachorro",
+    "slug": "petiscoseossosparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Gaiolas, casinhas e toca Roedores",
+    "slug": "gaiolascasinhasetocaroedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Acessórios de alimentação para cachorro",
+    "slug": "acessoriosdealimentacaoparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Antipulgas e Carrapatos para cachorro",
+    "slug": "antipulgasecarrapatosparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Coleiras, Guias e Peitorais para cachorro",
+    "slug": "coleirasguiasepeitoraisparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Banho à seco e talcos para cães",
+    "slug": "banhoasecoetalcosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Acessórios de transporte para cachorro",
+    "slug": "acessoriosdetransporteparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Arranhadores e Brinquedos para gatos",
+    "slug": "arranhadoresebrinquedosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Areia e Banheiros gatos",
+    "slug": "areiaebanheirosgatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Alimentação de Pássaros",
+    "slug": "alimentacaodepassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Gaiolas e Viveiros pássaros",
+    "slug": "gaiolaseviveirospassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Brinquedos e Poleiros para pássaros",
+    "slug": "brinquedosepoleirosparapassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Acessórios de alimentação para pássaros",
+    "slug": "acessoriosdealimentacaoparapassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Alimentação de Peixes",
+    "slug": "alimentacaodepeixes",
+    "animalTypeSlug": "peixes"
+  },
+  {
+    "name": "Equipamentos e Acessórios para aquário",
+    "slug": "equipamentoseacessoriosparaaquario",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Aquários e Beteiras",
+    "slug": "aquariosebeteiras",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Tratamento de água do aquário ",
+    "slug": "tratamentodeaguadoaquario",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Decoração de aquário para Peixes",
+    "slug": "decoracaodeaquarioparapeixes",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Ração para roedores",
+    "slug": "racaopararoedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Gaiolas e Casinhas Roedores",
+    "slug": "gaiolasecasinhasroedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Ração para gato",
+    "slug": "racaoparagato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Feno, alfafa, serragem e granulados roedores",
+    "slug": "fenoalfafaserragemegranuladosroedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Feno e Alfafa Roedores",
+    "slug": "fenoealfafaroedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Ração para répteis",
+    "slug": "racaopararepteis",
+    "animalTypeSlug": "repteis"
+  },
+  {
+    "name": "Aquaterrários Répteis",
+    "slug": "aquaterrariosrepteis",
+    "animalTypeSlug": "repteis"
+  },
+  {
+    "name": "Tocas Répteis",
+    "slug": "tocasrepteis",
+    "animalTypeSlug": "repteis"
+  },
+  {
+    "name": "Acessórios para répteis",
+    "slug": "acessoriospararepteis",
+    "animalTypeSlug": "repteis"
+  },
+  {
+    "name": "Anti-inflamatório para cães",
+    "slug": "antiinflamatorioparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Antibiótico para cães",
+    "slug": "antibioticoparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Vermífugo para cachorro",
+    "slug": "vermifugoparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Homeopáticos e florais para cães",
+    "slug": "homeopaticosefloraisparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Oftalmológicos para cães",
+    "slug": "oftalmologicosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Otológicos para cães",
+    "slug": "otologicosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Cuidado oral em cães",
+    "slug": "cuidadooralemcaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Beleza e limpeza cachorro",
+    "slug": "belezaelimpezacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Roupas cirúrgicas para cachorro",
+    "slug": "roupascirurgicasparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Colares Elizabetanos para cachorro",
+    "slug": "colareselizabetanosparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Antipulgas e Carrapatos para gatos",
+    "slug": "antipulgasecarrapatosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Vermífugo para gatos",
+    "slug": "vermifugoparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Suplementos e vitaminas para gatos",
+    "slug": "suplementosevitaminasparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Antibiótico para gatos",
+    "slug": "antibioticoparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Anti-inflamatório para gatos",
+    "slug": "antiinflamatorioparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Banhos terapêutico em gatos",
+    "slug": "banhosterapeuticoemgatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Colares Elizabetanos para gatos",
+    "slug": "colareselizabetanosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Homeopáticos e florais para gatos",
+    "slug": "homeopaticosefloraisparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Medicamentos para gatos",
+    "slug": "medicamentosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Oftalmológicos para gatos",
+    "slug": "oftalmologicosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Otológicos para gatos",
+    "slug": "otologicosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Roupas cirúrgicas para gatos",
+    "slug": "roupascirurgicasparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Acessórios de transporte para gatos",
+    "slug": "acessoriosdetransporteparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Acessórios de alimentação para gatos",
+    "slug": "acessoriosdealimentacaoparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Sabonetes para cães",
+    "slug": "sabonetesparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Shampoos e condicionadores para cães",
+    "slug": "shampoosecondicionadoresparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Hidratantes para cães",
+    "slug": "hidratantesparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Perfumes e colônias para cães",
+    "slug": "perfumesecoloniasparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Higiene bucal para cães",
+    "slug": "higienebucalparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Pentes, escovas e rasqueadeiras para cães",
+    "slug": "pentesescovaserasqueadeirasparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Lenços umedecidos para cães",
+    "slug": "lencosumedecidosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Limpeza de Olhos e Ouvidos para cães",
+    "slug": "limpezadeolhoseouvidosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Alicates e tesouras para cães",
+    "slug": "alicatesetesourasparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Alicates e tesouras para gatos",
+    "slug": "alicatesetesourasparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Coletor de fezes para cães",
+    "slug": "coletordefezesparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Eliminador de odores e desinfetantes para cães",
+    "slug": "eliminadordeodoresedesinfetantesparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Educadores, repelentes e atrativos para cães",
+    "slug": "educadoresrepelenteseatrativosparacaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Coleiras e peitorais gatos",
+    "slug": "coleirasepeitoraisgatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Petiscos para gatos",
+    "slug": "petiscosparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Roupas para gatos",
+    "slug": "roupasparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Medicamentos para cachorro",
+    "slug": "medicamentosparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Medicamentos para roedores",
+    "slug": "medicamentospararoedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Beleza e limpeza gatos",
+    "slug": "belezaelimpezagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Shampoos e condicionadores para cachorro",
+    "slug": "shampoosecondicionadoresparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Shampoos e condicionadores para gatos",
+    "slug": "shampoosecondicionadoresparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Medicamentos para cachorro e gato",
+    "slug": "medicamentosparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Shampoos e condicionadores para cachorro e gato",
+    "slug": "shampoosecondicionadoresparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Beleza e limpeza cachorro e gato",
+    "slug": "belezaelimpezacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Suplementos e vitaminas para cachorro e gato",
+    "slug": "suplementosevitaminasparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Homeopáticos E Florais cães",
+    "slug": "homeopaticosefloraiscaes",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Homeopáticos E Florais gatos",
+    "slug": "homeopaticosefloraisgatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Brinquedos para cachorro e gato",
+    "slug": "brinquedosparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Medicamentos para pássaros",
+    "slug": "medicamentosparapassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Medicamentos para répteis",
+    "slug": "medicamentospararepteis",
+    "animalTypeSlug": "repteis"
+  },
+  {
+    "name": "Banho à seco e talcos para cachorro e gato",
+    "slug": "banhoasecoetalcosparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Perfumes e colônias para cachorro e gato",
+    "slug": "perfumesecoloniasparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Ração Úmida para cachorro",
+    "slug": "racaoumidaparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Ração úmida para gatos",
+    "slug": "racaoumidaparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Acessórios de alimentação para cachorro e gato",
+    "slug": "acessoriosdealimentacaoparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Higiene pássaros",
+    "slug": "higienepassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Ninho e casa para pássaros",
+    "slug": "ninhoecasaparapassaros",
+    "animalTypeSlug": "passaros"
+  },
+  {
+    "name": "Casa e toca para cachorro",
+    "slug": "casaetocaparacachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Cama e cobertores cachorro e gato",
+    "slug": "camaecobertorescachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Cama, almofada e tocas para gatos",
+    "slug": "camaalmofadaetocasparagatos",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Cama e cobertores cachorro",
+    "slug": "camaecobertorescachorro",
+    "animalTypeSlug": "caes"
+  },
+  {
+    "name": "Acessórios de transporte para cachorro e gato",
+    "slug": "acessoriosdetransporteparacachorroegato",
+    "animalTypeSlug": "gatos"
+  },
+  {
+    "name": "Acessório para roedores",
+    "slug": "acessoriopararoedores",
+    "animalTypeSlug": "roedores"
+  },
+  {
+    "name": "Acessório para pássaros",
+    "slug": "acessorioparapassaros",
+    "animalTypeSlug": "passaros"
+  }
+]
