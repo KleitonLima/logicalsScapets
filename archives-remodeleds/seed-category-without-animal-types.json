@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Brinquedos",
+    "slug": "brinquedos"
+  },
+  {
+    "name": "Higiene",
+    "slug": "higiene"
+  },
+  {
+    "name": "Alimentos Nutritivos",
+    "slug": "alimentosnutritivos"
+  },
+  {
+    "name": "Acessórios",
+    "slug": "acessorios"
+  },
+  {
+    "name": "Moda Pet",
+    "slug": "modapet"
+  },
+  {
+    "name": "Adestramento e comportamento",
+    "slug": "adestramentoecomportamento"
+  },
+  {
+    "name": "Tapetes, Fraldas e Banheiros",
+    "slug": "tapetesfraldasebanheiros"
+  },
+  {
+    "name": "Portões, Grades e Escadas",
+    "slug": "portoesgradeseescadas"
+  },
+  {
+    "name": "Raças",
+    "slug": "racas"
+  },
+  {
+    "name": "Almofadas",
+    "slug": "almofadas"
+  },
+  {
+    "name": "Jardim",
+    "slug": "jardim"
+  },
+  {
+    "name": "Piscina",
+    "slug": "piscina"
+  },
+  {
+    "name": "Casa e jardim - Controle de Pragas - Inseticidas, Raticidas e Repelentes",
+    "slug": "casaejardimcontroledepragasinseticidasraticidaserepelentes"
+  },
+  {
+    "name": "Maquina de tosa e acessórios ",
+    "slug": "maquinadetosaeacessorios"
+  },
+  {
+    "name": "Medicamentos para outros animais",
+    "slug": "medicamentosparaoutrosanimais"
+  },
+  {
+    "name": "Homeopáticos E Florais para ambas especies",
+    "slug": "homeopaticosefloraisparaambasespecies"
+  },
+  {
+    "name": "Alicates e tesouras ",
+    "slug": "alicatesetesouras"
+  },
+  {
+    "name": "Pentes, escovas e rasqueadeiras ",
+    "slug": "pentesescovaserasqueadeiras"
+  },
+  {
+    "name": "Educadores, repelentes e atrativos ",
+    "slug": "educadoresrepelenteseatrativos"
+  },
+  {
+    "name": "Eliminador de odores e desinfetantes ",
+    "slug": "eliminadordeodoresedesinfetantes"
+  },
+  {
+    "name": "Casa e ambiente - aromatizadores e difusores",
+    "slug": "casaeambientearomatizadoresedifusores"
+  },
+  {
+    "name": "Casa e ambiente - diversos",
+    "slug": "casaeambientediversos"
+  },
+  {
+    "name": "Teste",
+    "slug": "teste"
+  }
+]
