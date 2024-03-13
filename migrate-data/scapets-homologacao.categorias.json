@@ -1,0 +1,1028 @@
+[
+  {
+    "_id": {
+      "$oid": "6303d6804931a32b8aad144a"
+    },
+    "descricao": "Brinquedos para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6814931a32b8aad144c"
+    },
+    "descricao": "Brinquedos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6aa4931a32b8aad1455"
+    },
+    "descricao": "Ração para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6b24931a32b8aad1459"
+    },
+    "descricao": "Medicamentos para peixes",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6bc4931a32b8aad145d"
+    },
+    "descricao": "Higiene",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6c34931a32b8aad1461"
+    },
+    "descricao": "Roupas para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6d14931a32b8aad1465"
+    },
+    "descricao": "Alimentos Nutritivos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6e04931a32b8aad1469"
+    },
+    "descricao": "Acessórios",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6e84931a32b8aad146d"
+    },
+    "descricao": "Suplementos e vitaminas para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d6f64931a32b8aad1471"
+    },
+    "descricao": "Moda Pet",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7004931a32b8aad1475"
+    },
+    "descricao": "Petiscos e Ossos para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d70d4931a32b8aad1479"
+    },
+    "descricao": "Gaiolas, casinhas e toca Roedores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d71b4931a32b8aad147d"
+    },
+    "descricao": "Adestramento e comportamento",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d72b4931a32b8aad1481"
+    },
+    "descricao": "Acessórios de alimentação para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d73a4931a32b8aad1485"
+    },
+    "descricao": "Tapetes, Fraldas e Banheiros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7454931a32b8aad1489"
+    },
+    "descricao": "Antipulgas e Carrapatos para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d75a4931a32b8aad148d"
+    },
+    "descricao": "Coleiras, Guias e Peitorais para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7644931a32b8aad1491"
+    },
+    "descricao": "Banho à seco e talcos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7704931a32b8aad1495"
+    },
+    "descricao": "Acessórios de transporte para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d77e4931a32b8aad1499"
+    },
+    "descricao": "Portões, Grades e Escadas",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7874931a32b8aad149d"
+    },
+    "descricao": "Raças",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7b24931a32b8aad14a1"
+    },
+    "descricao": "Arranhadores e Brinquedos para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7bc4931a32b8aad14a5"
+    },
+    "descricao": "Almofadas",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7c84931a32b8aad14a9"
+    },
+    "descricao": "Areia e Banheiros gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7d94931a32b8aad14ad"
+    },
+    "descricao": "Alimentação de Pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7e34931a32b8aad14b1"
+    },
+    "descricao": "Gaiolas e Viveiros pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7ee4931a32b8aad14b5"
+    },
+    "descricao": "Brinquedos e Poleiros para pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d7fc4931a32b8aad14b9"
+    },
+    "descricao": "Acessórios de alimentação para pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8054931a32b8aad14bd"
+    },
+    "descricao": "Alimentação de Peixes",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8174931a32b8aad14c1"
+    },
+    "descricao": "Equipamentos e Acessórios para aquário",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8264931a32b8aad14c5"
+    },
+    "descricao": "Aquários e Beteiras",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d83f4931a32b8aad14c9"
+    },
+    "descricao": "Tratamento de água do aquário ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d84a4931a32b8aad14cd"
+    },
+    "descricao": "Decoração de aquário para Peixes",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8554931a32b8aad14d1"
+    },
+    "descricao": "Ração para roedores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8614931a32b8aad14d5"
+    },
+    "descricao": "Gaiolas e Casinhas Roedores",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d86c4931a32b8aad14d9"
+    },
+    "descricao": "Ração para gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8874931a32b8aad14dd"
+    },
+    "descricao": "Feno, alfafa, serragem e granulados roedores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d89b4931a32b8aad14e1"
+    },
+    "descricao": "Feno e Alfafa Roedores",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8a74931a32b8aad14e5"
+    },
+    "descricao": "Ração para répteis",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8c74931a32b8aad14e9"
+    },
+    "descricao": "Aquaterrários Répteis",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8d84931a32b8aad14ed"
+    },
+    "descricao": "Tocas Répteis",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8e74931a32b8aad14f1"
+    },
+    "descricao": "Acessórios para répteis",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8ed4931a32b8aad14f5"
+    },
+    "descricao": "Jardim",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8f54931a32b8aad14f9"
+    },
+    "descricao": "Piscina",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6303d8ff4931a32b8aad14fd"
+    },
+    "descricao": "Casa e jardim - Controle de Pragas - Inseticidas, Raticidas e Repelentes",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6c7b32dc9a6b5ba926ba"
+    },
+    "descricao": "Anti-inflamatório para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6c8732dc9a6b5ba926c0"
+    },
+    "descricao": "Antibiótico para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6c9332dc9a6b5ba926c4"
+    },
+    "descricao": "Vermífugo para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6ccc32dc9a6b5ba926d8"
+    },
+    "descricao": "Homeopáticos e florais para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6ceb32dc9a6b5ba926de"
+    },
+    "descricao": "Oftalmológicos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6d0132dc9a6b5ba926e2"
+    },
+    "descricao": "Otológicos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6d0e32dc9a6b5ba926e6"
+    },
+    "descricao": "Cuidado oral em cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6d2532dc9a6b5ba926f1"
+    },
+    "descricao": "Beleza e limpeza cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6d3732dc9a6b5ba926f7"
+    },
+    "descricao": "Roupas cirúrgicas para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f6d4732dc9a6b5ba926fb"
+    },
+    "descricao": "Colares Elizabetanos para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f708e32dc9a6b5ba92873"
+    },
+    "descricao": "Antipulgas e Carrapatos para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f72e132dc9a6b5ba92946"
+    },
+    "descricao": "Vermífugo para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f72f132dc9a6b5ba9294a"
+    },
+    "descricao": "Suplementos e vitaminas para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f730f32dc9a6b5ba92954"
+    },
+    "descricao": "Antibiótico para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f731d32dc9a6b5ba92958"
+    },
+    "descricao": "Anti-inflamatório para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f733132dc9a6b5ba9295c"
+    },
+    "descricao": "Banhos terapêutico em gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f733d32dc9a6b5ba92960"
+    },
+    "descricao": "Colares Elizabetanos para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f734a32dc9a6b5ba92964"
+    },
+    "descricao": "Homeopáticos e florais para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f736a32dc9a6b5ba92968"
+    },
+    "descricao": "Medicamentos para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f738a32dc9a6b5ba9296c"
+    },
+    "descricao": "Oftalmológicos para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f739532dc9a6b5ba92970"
+    },
+    "descricao": "Otológicos para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f73a432dc9a6b5ba92974"
+    },
+    "descricao": "Roupas cirúrgicas para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f741532dc9a6b5ba9298d"
+    },
+    "descricao": "Acessórios de transporte para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f743632dc9a6b5ba92996"
+    },
+    "descricao": "Acessórios de alimentação para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f754c32dc9a6b5ba929cb"
+    },
+    "descricao": "Sabonetes para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f756232dc9a6b5ba929cf"
+    },
+    "descricao": "Shampoos e condicionadores para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f756d32dc9a6b5ba929d3"
+    },
+    "descricao": "Hidratantes para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f757f32dc9a6b5ba929d7"
+    },
+    "descricao": "Perfumes e colônias para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f759b32dc9a6b5ba929e0"
+    },
+    "descricao": "Higiene bucal para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f75ba32dc9a6b5ba929e4"
+    },
+    "descricao": "Pentes, escovas e rasqueadeiras para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f75c932dc9a6b5ba929e8"
+    },
+    "descricao": "Lenços umedecidos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f75e532dc9a6b5ba929f1"
+    },
+    "descricao": "Limpeza de Olhos e Ouvidos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f75fb32dc9a6b5ba929f5"
+    },
+    "descricao": "Maquina de tosa e acessórios ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f760b32dc9a6b5ba929f9"
+    },
+    "descricao": "Alicates e tesouras para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Alicates e tesouras para gatos"
+  },
+  {
+    "_id": {
+      "$oid": "630f761932dc9a6b5ba929fd"
+    },
+    "descricao": "Coletor de fezes para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f762d32dc9a6b5ba92a01"
+    },
+    "descricao": "Eliminador de odores e desinfetantes para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f764532dc9a6b5ba92a05"
+    },
+    "descricao": "Educadores, repelentes e atrativos para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f93ce32dc9a6b5ba92bd2"
+    },
+    "descricao": "Coleiras e peitorais gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f947832dc9a6b5ba92bf8"
+    },
+    "descricao": "Petiscos para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630f94dd32dc9a6b5ba92c1e"
+    },
+    "descricao": "Roupas para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fa63d32dc9a6b5ba931bd"
+    },
+    "descricao": "Medicamentos para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fbade32dc9a6b5ba9370c"
+    },
+    "descricao": "Medicamentos para roedores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fc22b32dc9a6b5ba938cc"
+    },
+    "descricao": "Beleza e limpeza gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fe08a32dc9a6b5ba9390b"
+    },
+    "descricao": "Shampoos e condicionadores para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fe08a32dc9a6b5ba9390d"
+    },
+    "descricao": "Shampoos e condicionadores para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630fe43632dc9a6b5ba939d5"
+    },
+    "descricao": "Medicamentos para outros animais",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "630ff8bb00d3337db8d729a1"
+    },
+    "descricao": "Medicamentos para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631000ab00d3337db8d72b8f"
+    },
+    "descricao": "Homeopáticos E Florais para ambas especies",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631000f300d3337db8d72bb4"
+    },
+    "descricao": "Anti-inflamatório para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Anti-inflamatório para gatos"
+  },
+  {
+    "_id": {
+      "$oid": "6310010300d3337db8d72bb8"
+    },
+    "descricao": "Antibiótico para cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Antibiótico para gatos"
+  },
+  {
+    "_id": {
+      "$oid": "6310043c00d3337db8d72dd5"
+    },
+    "descricao": "Shampoos e condicionadores para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6310044a00d3337db8d72dd9"
+    },
+    "descricao": "Beleza e limpeza cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6310080600d3337db8d73084"
+    },
+    "descricao": "Suplementos e vitaminas para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63100e4300d3337db8d73419"
+    },
+    "descricao": "Homeopáticos E Florais cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Homeopáticos E Florais gatos"
+  },
+  {
+    "_id": {
+      "$oid": "63100fd400d3337db8d73496"
+    },
+    "descricao": "Otológicos Para Cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Otológicos Para gatos"
+  },
+  {
+    "_id": {
+      "$oid": "63100ff000d3337db8d734a0"
+    },
+    "descricao": "Oftalmológicos Para Cães",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "descricao": "Oftalmológicos Para gatos"
+  },
+  {
+    "_id": {
+      "$oid": "6310e4ef00d3337db8d73ee3"
+    },
+    "descricao": "Brinquedos para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631125e100d3337db8d747e5"
+    },
+    "descricao": "Medicamentos para pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631131c500d3337db8d74ae0"
+    },
+    "descricao": "Medicamentos para répteis",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631647a200d3337db8d7623d"
+    },
+    "descricao": "Banho à seco e talcos para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631a1f6500d3337db8d7781f"
+    },
+    "descricao": "Perfumes e colônias para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631a25d900d3337db8d77942"
+    },
+    "descricao": "Alicates e tesouras ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631a25fd00d3337db8d7794c"
+    },
+    "descricao": "Pentes, escovas e rasqueadeiras ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631b6d9c00d3337db8d78580"
+    },
+    "descricao": "Educadores, repelentes e atrativos ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631b96ef00d3337db8d790c6"
+    },
+    "descricao": "Eliminador de odores e desinfetantes ",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631c7bd200d3337db8d795fd"
+    },
+    "descricao": "Ração Úmida para cachorro",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631c7bee00d3337db8d79601"
+    },
+    "descricao": "Ração úmida para gatos",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631cbff200d3337db8d797d0"
+    },
+    "descricao": "Casa e ambiente - aromatizadores e difusores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "631cc01000d3337db8d797d4"
+    },
+    "descricao": "Casa e ambiente - diversos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6324d2ad00d3337db8d7ccf6"
+    },
+    "descricao": "Acessórios de alimentação para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6324d47900d3337db8d7cd63"
+    },
+    "descricao": "Higiene pássaros",
+    "status": 0,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6324d49700d3337db8d7cd67"
+    },
+    "descricao": "Ninho e casa para pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328608b00d3337db8d7cdd9"
+    },
+    "descricao": "Casa e toca para cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328789700d3337db8d7d44e"
+    },
+    "descricao": "Cama e cobertores cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "632878d100d3337db8d7d45a"
+    },
+    "descricao": "Cama, almofada e tocas para gatos",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6328791800d3337db8d7d46b"
+    },
+    "descricao": "Cama e cobertores cachorro",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "63287a0100d3337db8d7d485"
+    },
+    "descricao": "Acessórios de transporte para cachorro e gato",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6329b98c00d3337db8d80006"
+    },
+    "descricao": "Acessório para roedores",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "6329f50200d3337db8d80cde"
+    },
+    "descricao": "Acessório para pássaros",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b3bb4f8c9301ca2e789936"
+    },
+    "descricao": "Teste",
+    "status": 1,
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65b3bb4f8c9301ca2e789938"
+    },
+    "descricao": "Teste",
+    "status": 0,
+    "__v": 0
+  }
+]
