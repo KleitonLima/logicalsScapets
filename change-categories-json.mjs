@@ -1,7 +1,7 @@
 import { readFileSync, writeFile } from "fs";
 
 const dataCategories = JSON.parse(
-  readFileSync("archives-originals/scapets-homologacao.categorias.json")
+  readFileSync("migrate-data/scapets-homologacao.categorias.json")
 );
 
 const dataWithoutAnimalTypes = [];
@@ -25,7 +25,7 @@ const verifyRepeatedsDescriptions = (dataCategories) => {
 const uniqueData = verifyRepeatedsDescriptions(dataCategories);
 
 const dataRemodeled = uniqueData
-  .map(({ _id, __v, status, descricao, animalTypeSlug, ...resto }) => {
+  .map(({ descricao, animalTypeSlug }) => {
     // Remove espaços, letras maiúsculas, hífen
     const regexDescription = descricao
       .normalize("NFD")
@@ -47,14 +47,12 @@ const dataRemodeled = uniqueData
       return dataWithoutAnimalTypes.push({
         name: descricao,
         slug: regexDescription,
-        ...resto,
       });
 
     return {
       name: descricao,
       slug: regexDescription,
       animalTypeSlug,
-      ...resto,
     };
   })
   .filter(
