@@ -1,17 +1,18 @@
 import { readFileSync, writeFile } from "fs";
 
+// #Categorias
 const dataCategories = JSON.parse(
   readFileSync("migrate-data/scapets-homologacao.categorias.json")
 );
-
-const dataWithoutAnimalTypes = [];
 
 const verifyRepeatedsDescriptions = (dataCategories) => {
   const descricoes = {};
   const dataCategoriesUniques = [];
 
   dataCategories.forEach((category) => {
-    const descricaoLowerCase = category.descricao.toLowerCase();
+    const descricaoLowerCase = category.descricao
+      .toLowerCase()
+      .replace(/^\s+|\s+$/g, "");
 
     if (!descricoes[descricaoLowerCase]) {
       descricoes[descricaoLowerCase] = true;
@@ -22,9 +23,10 @@ const verifyRepeatedsDescriptions = (dataCategories) => {
   return dataCategoriesUniques;
 };
 
-const uniqueData = verifyRepeatedsDescriptions(dataCategories);
+const uniqueCategoryData = verifyRepeatedsDescriptions(dataCategories);
+const dataWithoutAnimalTypes = [];
 
-const dataRemodeled = uniqueData
+const categoryDataRemodeled = uniqueCategoryData
   .map(({ descricao, animalTypeSlug }) => {
     // Remove espaços, letras maiúsculas, hífen
     const regexDescription = descricao
@@ -62,7 +64,7 @@ const dataRemodeled = uniqueData
 
 writeFile(
   "archives-remodeleds/seed-category-with-animal-types.json",
-  JSON.stringify(dataRemodeled, null, 2),
+  JSON.stringify(categoryDataRemodeled, null, 2),
   "utf8",
   (err) => {
     if (err) console.error(`Falha na criação: ${err}`);
@@ -77,5 +79,110 @@ writeFile(
   (err) => {
     if (err) console.error(`Falha na criação: ${err}`);
     else console.log("Arquivo criado");
+  }
+);
+
+// #Produtos
+const dataBaseProducts = JSON.parse(
+  readFileSync("migrate-data/scapets.produtouniques.json")
+);
+
+const dataBaseProductsRepeateds = [];
+
+const verifyRepeatedsProducts = (dataBaseProducts) => {
+  const nomes = {};
+  const dataBaseProductsUniques = [];
+
+  dataBaseProducts.forEach((product) => {
+    const nomeLowerCase = product.nome.replace(/^\s+|\s+$/g, "").toLowerCase();
+
+    if (!nomes[nomeLowerCase]) {
+      nomes[nomeLowerCase] = true;
+      product.nome = product.nome.replace(/^\s+|\s+$/g, "");
+      dataBaseProductsUniques.push(product);
+    } else {
+      product.nome = product.nome.replace(/^\s+|\s+$/g, "");
+      dataBaseProductsRepeateds.push({ nome: product.nome, _id: product._id });
+    }
+  });
+
+  return dataBaseProductsUniques;
+};
+
+const uniqueProductData = verifyRepeatedsProducts(dataBaseProducts);
+const productWithoutCategory = [];
+
+const productDataRemodeled = uniqueProductData.map(
+  ({
+    _id,
+    nome,
+    descricao,
+    especificacoes,
+    imagem,
+    categoria,
+    status,
+    campoBusca,
+  }) => {
+    // Buscar categorias que tenham id igual ao categoryId do produto
+    const idMatch = uniqueCategoryData.find((e) => {
+      if (e._id && categoria) {
+        if (categoria["$oid"] === e._id["$oid"]) {
+          categoria = e.descricao
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f\s]+/g, "")
+            .toLowerCase()
+            .replace(/[^a-z0-9]/g, "");
+
+          return true;
+        }
+      } else return false;
+    });
+
+    // Se o não existe categoria com id correspondente, envia o produto para outra lista
+    if (!idMatch) return productWithoutCategory.push({ nome, _id });
+
+    imagem = [imagem];
+    if (especificacoes) especificacoes = [especificacoes];
+    else especificacoes = [];
+
+    return {
+      name: nome,
+      description: descricao,
+      specifications: especificacoes,
+      categorySlug: categoria,
+      status,
+      keyword: campoBusca,
+      images: imagem,
+    };
+  }
+);
+
+writeFile(
+  "archives-remodeleds/products-repeateds.json",
+  JSON.stringify(dataBaseProductsRepeateds, null, 2),
+  "utf8",
+  (err) => {
+    if (err) console.error(`Falha na criação: ${err}`);
+    else console.error("Arquivo criado");
+  }
+);
+
+writeFile(
+  "archives-remodeleds/seed-base-product.json",
+  JSON.stringify(productDataRemodeled, null, 2),
+  "utf8",
+  (err) => {
+    if (err) console.error(`Falha na criação: ${err}`);
+    else console.error("Arquivo criado");
+  }
+);
+
+writeFile(
+  "archives-remodeleds/base-product-without-category.json",
+  JSON.stringify(productWithoutCategory, null, 2),
+  "utf8",
+  (err) => {
+    if (err) console.error(`Falha na criação: ${err}`);
+    else console.error("Arquivo criado");
   }
 );
