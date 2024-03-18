@@ -129,50 +129,54 @@ const verifyRepeatedsProducts = (dataBaseProducts) => {
 const uniqueProductData = verifyRepeatedsProducts(dataBaseProducts);
 const productWithoutCategory = [];
 
-const productDataRemodeled = uniqueProductData.map(
-  ({
-    _id,
-    nome,
-    descricao,
-    especificacoes,
-    imagem,
-    categoria,
-    status,
-    campoBusca,
-  }) => {
-    // Buscar categorias que tenham id igual ao categoryId do produto
-    const idMatch = uniqueCategoryData.find((e) => {
-      if (e._id && categoria) {
-        if (categoria["$oid"] === e._id["$oid"]) {
-          categoria = e.descricao
-            .normalize("NFD")
-            .replace(/[\u0300-\u036f\s]+/g, "")
-            .toLowerCase()
-            .replace(/[^a-z0-9]/g, "");
-
-          return true;
-        }
-      } else return false;
-    });
-
-    // Se o não existe categoria com id correspondente, envia o produto para outra lista
-    if (!idMatch) return productWithoutCategory.push({ nome, _id });
-
-    imagem = [imagem];
-    if (especificacoes) especificacoes = [especificacoes];
-    else especificacoes = [];
-
-    return {
-      name: nome,
-      description: descricao,
-      specifications: especificacoes,
-      categorySlug: categoria,
+const productDataRemodeled = uniqueProductData
+  .map(
+    ({
+      _id,
+      nome,
+      descricao,
+      especificacoes,
+      imagem,
+      categoria,
       status,
-      keyword: campoBusca,
-      images: imagem,
-    };
-  }
-);
+      campoBusca,
+    }) => {
+      // Buscar categorias que tenham id igual ao categoryId do produto
+      const idMatch = uniqueCategoryData.find((e) => {
+        if (e._id && categoria) {
+          if (categoria["$oid"] === e._id["$oid"]) {
+            categoria = e.descricao
+              .normalize("NFD")
+              .replace(/[\u0300-\u036f\s]+/g, "")
+              .toLowerCase()
+              .replace(/[^a-z0-9]/g, "");
+
+            return true;
+          }
+        } else return false;
+      });
+
+      // Se o não existe categoria com id correspondente, envia o produto para outra lista
+      if (!idMatch) return productWithoutCategory.push({ nome, _id });
+
+      imagem = [imagem];
+      if (especificacoes) especificacoes = [especificacoes];
+      else especificacoes = [];
+
+      return {
+        name: nome,
+        description: descricao,
+        specifications: especificacoes,
+        categorySlug: categoria,
+        status,
+        keyword: campoBusca,
+        images: imagem,
+      };
+    }
+  )
+  .filter(
+    (item) => typeof item === "object" && item !== null && !Array.isArray(item)
+  );
 
 writeFile(
   "archives-remodeleds/products-repeateds.json",
