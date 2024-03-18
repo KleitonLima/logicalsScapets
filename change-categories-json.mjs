@@ -90,19 +90,36 @@ const dataBaseProducts = JSON.parse(
 const dataBaseProductsRepeateds = [];
 
 const verifyRepeatedsProducts = (dataBaseProducts) => {
-  const nomes = {};
   const dataBaseProductsUniques = [];
 
   dataBaseProducts.forEach((product) => {
-    const nomeLowerCase = product.nome.replace(/^\s+|\s+$/g, "").toLowerCase();
+    const nomeLowerCase = product.nome.trim().toLowerCase();
+    const existingProductIndex = dataBaseProductsUniques.findIndex(
+      (p) => p.nome.trim().toLowerCase() === nomeLowerCase
+    );
 
-    if (!nomes[nomeLowerCase]) {
-      nomes[nomeLowerCase] = true;
-      product.nome = product.nome.replace(/^\s+|\s+$/g, "");
+    if (existingProductIndex === -1) {
+      product.nome = product.nome.trim();
+
       dataBaseProductsUniques.push(product);
     } else {
-      product.nome = product.nome.replace(/^\s+|\s+$/g, "");
-      dataBaseProductsRepeateds.push({ nome: product.nome, _id: product._id });
+      const existingProduct = dataBaseProductsUniques[existingProductIndex];
+      if (existingProduct.categoria === product.categoria) {
+        product.nome = product.nome.trim();
+
+        dataBaseProductsRepeateds.push({
+          nome: product.nome,
+          _id: product._id,
+        });
+      } else {
+        existingProduct.nome = product.nome.trim();
+
+        dataBaseProductsRepeateds.push({
+          nome: existingProduct.nome,
+          _id: existingProduct._id,
+          categoria: existingProduct.categoria,
+        });
+      }
     }
   });
 

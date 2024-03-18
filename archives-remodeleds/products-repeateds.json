@@ -2,1867 +2,2800 @@
   {
     "nome": "Idade Adulto Linha Super Premium Pet Cachorros Porte de Raça Pequeno Tipo Rações Secas Indicação Adultos que vivem em ambientes internos Apresentação Disponível em embalagens de 1kg, 2,5kg e 7,5kg",
     "_id": {
-      "$oid": "630423f64b7eb48c7cfd5c2a"
+      "$oid": "630423f64b7eb48c7cfd5c28"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Premier Raças Específicas Yorkshire para Cães Filhotes",
     "_id": {
-      "$oid": "63061dcfd2070878db8a2b90"
+      "$oid": "63061dcfd2070878db8a2b8e"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Premier Raças Específicas Maltês para Cães Adultos",
     "_id": {
-      "$oid": "63061e0fd2070878db8a2b99"
+      "$oid": "63061e0fd2070878db8a2b97"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Fórmula Natural FreshMeat para Cães Sênior de Pequeno Porte Sabor Frango",
     "_id": {
-      "$oid": "630630c8d2070878db8a2c12"
+      "$oid": "630630c8d2070878db8a2c10"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Origens Raças Especificas para Labrador e Golden Retriever Filhotes 15kg",
     "_id": {
-      "$oid": "630635a9d2070878db8a2c92"
+      "$oid": "630635a9d2070878db8a2c90"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Pro Plan para Cães Adultos Sachê sabor Frango 100g",
     "_id": {
-      "$oid": "630667b5d2070878db8a2da5"
+      "$oid": "630667b3d2070878db8a2da3"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Premium Special Dog para Cães Adultos Gold Sabor Frango e Carne 20kg",
     "_id": {
-      "$oid": "63066a6fd2070878db8a2dfb"
+      "$oid": "63066a6fd2070878db8a2df9"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Max Professional Line Mature Sabor Frango",
     "_id": {
-      "$oid": "63077e3a03dde5be8cb5e43b"
+      "$oid": "63077e3a03dde5be8cb5e439"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Premiatta Classic Antiodor para Cães Adultos de Raças Pequenas",
     "_id": {
-      "$oid": "630784f403dde5be8cb5e52b"
+      "$oid": "630784f303dde5be8cb5e529"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Frost Sensitive Skin para Cães Adultos de Pele Sensível",
     "_id": {
-      "$oid": "63080308485c6fc393493e0f"
+      "$oid": "63080268485c6fc393493de5"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Frost SB para Cães Filhotes de Porte Mini e Pequeno",
     "_id": {
-      "$oid": "63080326485c6fc393493e16"
+      "$oid": "630802ce485c6fc393493e01"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Frost SB para Cães Adultos de Porte Mini e Pequeno",
     "_id": {
-      "$oid": "6308033f485c6fc393493e1d"
+      "$oid": "63080294485c6fc393493df3"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Livelong Frango com Batata-Doce para Cães 300g",
     "_id": {
-      "$oid": "63080c8c485c6fc393494031"
+      "$oid": "63080c61485c6fc39349402a"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Royal Canin Medium Adult para Cães Adultos de Porte Médio 140g",
     "_id": {
-      "$oid": "630810e4485c6fc3934940e0"
+      "$oid": "6304d73fab999f0beaec8a57"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Royal Canin Coat Beauty para Cães Adultos 85g",
     "_id": {
-      "$oid": "6308111b485c6fc3934940e7"
+      "$oid": "6304d8adab999f0beaec8a8f"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Golden Gourmet para Cães Adultos de Porte Pequeno Sabor Carne 85g",
     "_id": {
-      "$oid": "63081169485c6fc3934940f5"
+      "$oid": "6304ded3ab999f0beaec8b4c"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Golden Gourmet para Cães Filhotes Sabor Frango 85g",
     "_id": {
-      "$oid": "63081194485c6fc3934940fc"
+      "$oid": "6304dfa3ab999f0beaec8b61"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Premier Fórmula para Cães Filhotes de Raças Grandes Sabor Frango - 15kg",
     "_id": {
-      "$oid": "630811d4485c6fc393494103"
+      "$oid": "6304e7c5ab999f0beaec8c09"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Quatree Supreme para Cães Adultos de Porte Médio e Grande Sabor Frango e Batata Doce - 15kg",
     "_id": {
-      "$oid": "630812cd485c6fc39349413b"
+      "$oid": "63068580d2070878db8a3182"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Quatree Supreme para Cães Sênior +7 de Porte Médio e Grande Sabor Cordeiro e Frango - 15kg",
     "_id": {
-      "$oid": "630813ac485c6fc393494142"
+      "$oid": "630685a5d2070878db8a3189"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Ração Úmida Royal Canin Veterinary Recovery para Cães e Gatos em Recuperação 195 g",
     "_id": {
-      "$oid": "6308bb5e485c6fc3934942f5"
+      "$oid": "63041b0f4b7eb48c7cfd5b51"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Brinquedo LCM Halteres Duraflex para Cães",
     "_id": {
-      "$oid": "6308bdf9485c6fc39349439c"
+      "$oid": "6308bdf9485c6fc39349439a"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo LCM Halteres Duraflex para Cães",
     "_id": {
-      "$oid": "6308bdf9485c6fc39349439e"
+      "$oid": "6308bdf9485c6fc39349439a"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo LCM Halteres Duraflex para Cães",
     "_id": {
-      "$oid": "6308bdf9485c6fc3934943a0"
+      "$oid": "6308bdf9485c6fc39349439a"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo LCM Halteres Duraflex para Cães",
     "_id": {
-      "$oid": "6308bdf9485c6fc3934943a2"
+      "$oid": "6308bdf9485c6fc39349439a"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo LCM Halteres Duraflex para Cães",
     "_id": {
-      "$oid": "6308bdf9485c6fc3934943a4"
+      "$oid": "6308bdf9485c6fc39349439a"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Ração Fórmula Natural FreshMeat para Gatos Adultos Castrados Sabor Carne",
     "_id": {
-      "$oid": "63091b06485c6fc393494af2"
+      "$oid": "63091ac7485c6fc393494aeb"
+    },
+    "categoria": {
+      "$oid": "6303d86c4931a32b8aad14d9"
     }
   },
   {
     "nome": "Ração Úmida Livelong Delícias de Carnes para Gatos",
     "_id": {
-      "$oid": "630cd2d8485c6fc3934952c9"
+      "$oid": "630cd285485c6fc3934952b4"
+    },
+    "categoria": {
+      "$oid": "6303d86c4931a32b8aad14d9"
     }
   },
   {
     "nome": "Brinquedo No Limit Origami Latex Orangotango Rosa para Cães",
     "_id": {
-      "$oid": "630d14cb485c6fc393495911"
+      "$oid": "630d14a3485c6fc3934958fe"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo Pet Games Bonequinha para Cães Lilás",
     "_id": {
-      "$oid": "630e0d0b485c6fc393495abf"
+      "$oid": "630e0d0b485c6fc393495abd"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo Kong para Cães Tug Toy Vermelho",
     "_id": {
-      "$oid": "630e1134485c6fc393495bb4"
+      "$oid": "630e1132485c6fc393495bb2"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Brinquedo Kong para Cães Scrunch Knots Fox Bege e Branco",
     "_id": {
-      "$oid": "630e4cc6485c6fc393495ed2"
+      "$oid": "6308c745485c6fc39349450e"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Ração Tropical Sachê Gammaru para Peixes e Répteis 12g",
     "_id": {
-      "$oid": "630f4f65485c6fc3934967a8"
+      "$oid": "630e21b1485c6fc393495e3d"
+    },
+    "categoria": {
+      "$oid": "6303d8a74931a32b8aad14e5"
     }
   },
   {
     "nome": "Alimento para Peixes e Repteis Tenébrio Desidratado 15g",
     "_id": {
-      "$oid": "630f55f8485c6fc39349690d"
+      "$oid": "630e1f55485c6fc393495da3"
+    },
+    "categoria": {
+      "$oid": "6303d8a74931a32b8aad14e5"
     }
   },
   {
     "nome": "Alimento Tropical Gammarus para Peixes e Tartarugas - 20g",
     "_id": {
-      "$oid": "630f5be9485c6fc393496a48"
+      "$oid": "630e22c4485c6fc393495e9a"
+    },
+    "categoria": {
+      "$oid": "6303d8a74931a32b8aad14e5"
     }
   },
   {
     "nome": "Brinquedo Jambo para Gatos Ouriço Brilhante",
     "_id": {
-      "$oid": "630f6b2d32dc9a6b5ba9267e"
+      "$oid": "630f6b2932dc9a6b5ba9267c"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Brinquedo Akio Bandeira para Gatos",
     "_id": {
-      "$oid": "630f704b32dc9a6b5ba92858"
+      "$oid": "630f704a32dc9a6b5ba92856"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Ketojet Agener União 10 Comprimidos",
     "_id": {
-      "$oid": "630fa73a32dc9a6b5ba93200"
+      "$oid": "630fa72032dc9a6b5ba931f7"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Brinquedo Arranhador Divert Cat para Gatos Toca Triângulo Rosa",
     "_id": {
-      "$oid": "630fa7f732dc9a6b5ba93248"
+      "$oid": "630fa7f532dc9a6b5ba93246"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Larvicida Spray Konig Bactrovet Prata Am",
     "_id": {
-      "$oid": "630fec1932dc9a6b5ba93b58"
+      "$oid": "630febf632dc9a6b5ba93b4f"
+    },
+    "categoria": {
+      "$oid": "630fe43632dc9a6b5ba939d5"
     }
   },
   {
     "nome": "Brinquedo Chalesco Cat Fish para Cães e Gatos",
     "_id": {
-      "$oid": "6310f60700d3337db8d74293"
+      "$oid": "630e101e485c6fc393495b77"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Oto-Dermodene Loção 100 ml",
     "_id": {
-      "$oid": "6310fbda00d3337db8d7445a"
+      "$oid": "6310ad6900d3337db8d734b0"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Brinquedo LCM Gatos Bola Cat Toy Colorido",
     "_id": {
-      "$oid": "6310ff5200d3337db8d744f5"
+      "$oid": "6310ff5200d3337db8d744f3"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Colírio Provets Cinerária Marítima Homeopático",
     "_id": {
-      "$oid": "6311076800d3337db8d745a7"
+      "$oid": "6311076800d3337db8d745a5"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Vita Vet C Vetnil 30ml",
     "_id": {
-      "$oid": "6311260800d3337db8d747f0"
+      "$oid": "630fbb1232dc9a6b5ba93717"
+    },
+    "categoria": {
+      "$oid": "630fbade32dc9a6b5ba9370c"
     }
   },
   {
     "nome": "Pet Olate 100 ml",
     "_id": {
-      "$oid": "6311272c00d3337db8d7482f"
+      "$oid": "6310adba00d3337db8d734c2"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Algicida Mbreda Mpetec Para Aquários de Água Doce",
     "_id": {
-      "$oid": "63112d7300d3337db8d749c3"
+      "$oid": "630a20e4485c6fc393494ef9"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Suplemento Organnact Glicol Pet",
     "_id": {
-      "$oid": "631130e800d3337db8d74ab0"
+      "$oid": "6311265f00d3337db8d74802"
+    },
+    "categoria": {
+      "$oid": "631125e100d3337db8d747e5"
     }
   },
   {
     "nome": "Suplemento Maltodex Pet Oral 60ml",
     "_id": {
-      "$oid": "6311313600d3337db8d74ac2"
+      "$oid": "6311268900d3337db8d7480b"
+    },
+    "categoria": {
+      "$oid": "631125e100d3337db8d747e5"
     }
   },
   {
     "nome": "Spray Antiparasitas DNAmazon para Cães e Gatos 50 ml",
     "_id": {
-      "$oid": "631133a600d3337db8d74b3b"
+      "$oid": "630fa0e132dc9a6b5ba92fdb"
+    },
+    "categoria": {
+      "$oid": "6303d7454931a32b8aad1489"
     }
   },
   {
     "nome": "Spray Íntimus DNAmazon para Cães e Gatos 50 ml",
     "_id": {
-      "$oid": "631133ce00d3337db8d74b44"
+      "$oid": "6310adda00d3337db8d734cb"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Metacell Pet Ourofino 50ml",
     "_id": {
-      "$oid": "6312118000d3337db8d7508b"
+      "$oid": "631130ae00d3337db8d74aa7"
+    },
+    "categoria": {
+      "$oid": "6310080600d3337db8d73084"
     }
   },
   {
     "nome": "Brinquedo Akio Aventura na Selva para Gatos",
     "_id": {
-      "$oid": "631240c100d3337db8d752e0"
+      "$oid": "630e630a485c6fc3934963ad"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Brinquedo Akio Aventura na Selva para Gatos",
     "_id": {
-      "$oid": "631240c700d3337db8d752e2"
+      "$oid": "630e630a485c6fc3934963ad"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Brinquedo para Gatos Western Bola com Guizo 2 Unidades - Cores Sortidas",
     "_id": {
-      "$oid": "6312426400d3337db8d7531f"
+      "$oid": "6312426400d3337db8d7531d"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Suplemento Organnact Glicol Pet",
     "_id": {
-      "$oid": "631244ad00d3337db8d753b7"
+      "$oid": "6311265f00d3337db8d74802"
+    },
+    "categoria": {
+      "$oid": "631125e100d3337db8d747e5"
     }
   },
   {
     "nome": "Brinquedo Jambo Pet Para Gatos Diversos",
     "_id": {
-      "$oid": "631250f300d3337db8d75664"
+      "$oid": "631250f200d3337db8d75662"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Suplemento Maltodex Pet Oral 60ml",
     "_id": {
-      "$oid": "631251dd00d3337db8d756b7"
+      "$oid": "6311268900d3337db8d7480b"
+    },
+    "categoria": {
+      "$oid": "631125e100d3337db8d747e5"
     }
   },
   {
     "nome": "Targimax 10 Inovet 10ml",
     "_id": {
-      "$oid": "63125d4d00d3337db8d7599e"
+      "$oid": "6311315e00d3337db8d74acb"
+    },
+    "categoria": {
+      "$oid": "630fbade32dc9a6b5ba9370c"
     }
   },
   {
     "nome": "Brinquedo Kong para Gatos Rat Colorido",
     "_id": {
-      "$oid": "63125fd100d3337db8d75a78"
+      "$oid": "630f7efb32dc9a6b5ba92b71"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Kit de Saúde Oral Virbac Pasta e Escova para Cães e Gatos",
     "_id": {
-      "$oid": "6316016100d3337db8d75e1c"
+      "$oid": "630fbf3b32dc9a6b5ba9383b"
+    },
+    "categoria": {
+      "$oid": "630f759b32dc9a6b5ba929e0"
     }
   },
   {
     "nome": "Coleira Antipulgas e Carrapatos Seresto para Cães e Gatos até 8 Kg Elanco",
     "_id": {
-      "$oid": "6316072b00d3337db8d75e58"
+      "$oid": "630f6ddb32dc9a6b5ba9273d"
+    },
+    "categoria": {
+      "$oid": "6303d7454931a32b8aad1489"
     }
   },
   {
     "nome": "Shampoo Terapêutico Duprat Ectoparasiticida para Cães e Gatos 230ml",
     "_id": {
-      "$oid": "6316432200d3337db8d76173"
+      "$oid": "6316432100d3337db8d76171"
+    },
+    "categoria": {
+      "$oid": "6310043c00d3337db8d72dd5"
     }
   },
   {
     "nome": "Shampoo Hello Kitty and Friends Filhotes para Cães e Gatos 300ml",
     "_id": {
-      "$oid": "6316489d00d3337db8d7628a"
+      "$oid": "6316489d00d3337db8d76288"
+    },
+    "categoria": {
+      "$oid": "631647a200d3337db8d7623d"
     }
   },
   {
     "nome": "Brinquedo Plumas e Penas Varinha Marabu Show para Gatos - Cores Sortidas",
     "_id": {
-      "$oid": "63164cf400d3337db8d7643a"
+      "$oid": "63164cf300d3337db8d76438"
+    },
+    "categoria": {
+      "$oid": "6303d7b24931a32b8aad14a1"
     }
   },
   {
     "nome": "Condicionador Sanol Dog Neutro para Cães e Gatos",
     "_id": {
-      "$oid": "6317437b00d3337db8d76873"
+      "$oid": "631742d400d3337db8d7683d"
+    },
+    "categoria": {
+      "$oid": "6310043c00d3337db8d72dd5"
     }
   },
   {
     "nome": "Escova Gel para Cães e Gatos German Hart Dupla",
     "_id": {
-      "$oid": "631b302c00d3337db8d7844c"
+      "$oid": "631a4d7200d3337db8d78408"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Escova German Hart Sem Bolinha com Cabo de Gel para Cães e Gatos",
     "_id": {
-      "$oid": "631b334800d3337db8d7848d"
+      "$oid": "631b334800d3337db8d7848b"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Pente Fino German Hart 40 Dentes Gel Rosa para Cães e Gatos",
     "_id": {
-      "$oid": "631b33e100d3337db8d784ab"
+      "$oid": "631b33e100d3337db8d784a9"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Educador Organnact Urine On para Cães e Gatos 30ml",
     "_id": {
-      "$oid": "631b36ec00d3337db8d78522"
+      "$oid": "631b36ec00d3337db8d78520"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Educador Sanitário Atrativo Good Pet Cães Filhotes",
     "_id": {
-      "$oid": "631b373400d3337db8d78536"
+      "$oid": "631b373400d3337db8d78534"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Educador Sanitário Atrativo Good Pet Cães Filhotes",
     "_id": {
-      "$oid": "631b373400d3337db8d78538"
+      "$oid": "631b373400d3337db8d78534"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Educador Sanitário Repelente Good Pet Mundo Animal",
     "_id": {
-      "$oid": "631b378500d3337db8d78543"
+      "$oid": "631b378500d3337db8d78541"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Repelente Mundo Animal Cães, Gatos, Roedores e Coelhos Bite Stop",
     "_id": {
-      "$oid": "631b37e800d3337db8d78557"
+      "$oid": "631b37e800d3337db8d78555"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Pipi Dog Coveli 20ml",
     "_id": {
-      "$oid": "631b3be400d3337db8d7856b"
+      "$oid": "631b3be400d3337db8d78569"
+    },
+    "categoria": {
+      "$oid": "631b6d9c00d3337db8d78580"
     }
   },
   {
     "nome": "Cortador de Unhas Akio para Cães e Gatos",
     "_id": {
-      "$oid": "631b767a00d3337db8d788f6"
+      "$oid": "631b766500d3337db8d788ed"
+    },
+    "categoria": {
+      "$oid": "631a25d900d3337db8d77942"
     }
   },
   {
     "nome": "Kit Akio Cortador de Unhas e Lixa para Cães e Gatos",
     "_id": {
-      "$oid": "631b77a700d3337db8d78911"
+      "$oid": "631b76fa00d3337db8d78908"
+    },
+    "categoria": {
+      "$oid": "631a25d900d3337db8d77942"
     }
   },
   {
     "nome": "Rasqueadeira Akio para Cães e Gatos",
     "_id": {
-      "$oid": "631b88ff00d3337db8d78d87"
+      "$oid": "631b87a300d3337db8d78d12"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Refil Pipicão Cata Caca para Cães",
     "_id": {
-      "$oid": "631b8f6600d3337db8d78f9c"
+      "$oid": "631b8f6600d3337db8d78f9a"
+    },
+    "categoria": {
+      "$oid": "630f6d2532dc9a6b5ba926f1"
     }
   },
   {
     "nome": "Eliminador de Odores Sanol Dog",
     "_id": {
-      "$oid": "631b9c0d00d3337db8d791c4"
+      "$oid": "631b9b8500d3337db8d791a0"
+    },
+    "categoria": {
+      "$oid": "631b96ef00d3337db8d790c6"
     }
   },
   {
     "nome": "Banho à Seco Sanol Dog para Cães e Gatos",
     "_id": {
-      "$oid": "631f277a00d3337db8d7983a"
+      "$oid": "631649b900d3337db8d762ec"
+    },
+    "categoria": {
+      "$oid": "631647a200d3337db8d7623d"
     }
   },
   {
     "nome": "Rasqueadeira Furminator Roxa Média para Gatos de Pelo Curto",
     "_id": {
-      "$oid": "631f300e00d3337db8d7991a"
+      "$oid": "631a4b6f00d3337db8d7835d"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Escova German Hart Sem Bolinha com Cabo de Borracha para Cães e Gatos",
     "_id": {
-      "$oid": "631f324100d3337db8d7994c"
+      "$oid": "631b8cde00d3337db8d78ecb"
+    },
+    "categoria": {
+      "$oid": "631a25fd00d3337db8d7794c"
     }
   },
   {
     "nome": "Máscara de Hidratação Dolce Pet Jade Cereja e Avelã para Cães e Gatos",
     "_id": {
-      "$oid": "631f694200d3337db8d79bc9"
+      "$oid": "6319f4aa00d3337db8d776bc"
+    },
+    "categoria": {
+      "$oid": "6310044a00d3337db8d72dd9"
     }
   },
   {
     "nome": "Eliminador de Odores Sanol Cat",
     "_id": {
-      "$oid": "631f6b5700d3337db8d79c35"
+      "$oid": "631f6b4400d3337db8d79c2c"
+    },
+    "categoria": {
+      "$oid": "631b96ef00d3337db8d790c6"
     }
   },
   {
     "nome": "Osso PetTreats Orelha Bovina Natural para Cães - 1 unidade",
     "_id": {
-      "$oid": "631f879500d3337db8d79e2b"
+      "$oid": "6307d583485c6fc393493cb9"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Bifinho Keldog para Cães Adultos Sabor Churrasco",
     "_id": {
-      "$oid": "6322136700d3337db8d7a600"
+      "$oid": "631f89a000d3337db8d79e46"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Guia Retrátil Chalesco para Cães - Cores Sortidas",
     "_id": {
-      "$oid": "6322184100d3337db8d7a781"
+      "$oid": "630f75de32dc9a6b5ba929ec"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Guia AMF Havaí Azul",
     "_id": {
-      "$oid": "632228a600d3337db8d7a883"
+      "$oid": "632226e600d3337db8d7a871"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Petisco Dipetti Mordedor Mini Trança para Cães",
     "_id": {
-      "$oid": "63231abe00d3337db8d7ab43"
+      "$oid": "63231abe00d3337db8d7ab41"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Aquário Aquaterrário Retangular para Peixes",
     "_id": {
-      "$oid": "6323433e00d3337db8d7b1e1"
+      "$oid": "6323412e00d3337db8d7b1c6"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Curvo Aquaterrário Faixa Preta",
     "_id": {
-      "$oid": "6323438a00d3337db8d7b1ea"
+      "$oid": "632342a800d3337db8d7b1cf"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Petisco Dipetti Mordedor Donuts Ovino para Cães",
     "_id": {
-      "$oid": "6323648d00d3337db8d7b383"
+      "$oid": "6323348b00d3337db8d7b10f"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Peitoral com Guia MeuAuAu Anti Puxão Unicórnio Rosa",
     "_id": {
-      "$oid": "6323649100d3337db8d7b38a"
+      "$oid": "63231f6a00d3337db8d7ad4e"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Peitoral com Guia Le Patin Cinza para Cães",
     "_id": {
-      "$oid": "6323664500d3337db8d7b3ef"
+      "$oid": "63231ff500d3337db8d7ad9d"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Kit Le Patin Coleira, Peitoral e Guia Verde para Cães",
     "_id": {
-      "$oid": "632366f500d3337db8d7b42e"
+      "$oid": "631f43a700d3337db8d79a67"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Peitoral com Guia Le Patin Peludo Rosa para Cães",
     "_id": {
-      "$oid": "632367a400d3337db8d7b462"
+      "$oid": "6323213a00d3337db8d7add3"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Semente Isla Multi Pet Abóbora Mini Jack - 800mg",
     "_id": {
-      "$oid": "63236e0a00d3337db8d7b6ba"
+      "$oid": "630e5a17485c6fc3934961ed"
+    },
+    "categoria": {
+      "$oid": "6303d7d94931a32b8aad14ad"
     }
   },
   {
     "nome": "Osso Jack&Pup Rótula Suína para Cães de Porte Mini e Pequeno",
     "_id": {
-      "$oid": "632372f500d3337db8d7b862"
+      "$oid": "6323646800d3337db8d7b371"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Tapete Higiênico Pet Like Ultra Pads Carvão Ativado Slim 60x60 para Cães 30 Unidades",
     "_id": {
-      "$oid": "632476da00d3337db8d7bc08"
+      "$oid": "6324761d00d3337db8d7bbf1"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Tapete Higiênico Petwash com Poste Lavável para Cães",
     "_id": {
-      "$oid": "632484a100d3337db8d7bdb8"
+      "$oid": "632484a100d3337db8d7bdb6"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Kit Meu Primeiro Aquário 20L Aquaterrário",
     "_id": {
-      "$oid": "63248f2b00d3337db8d7c0ae"
+      "$oid": "6324841000d3337db8d7bda6"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Curvo Aquaterrário para Peixes com Suporte Transparente",
     "_id": {
-      "$oid": "63248f7500d3337db8d7c0b7"
+      "$oid": "632342f800d3337db8d7b1d8"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Aquaterrário com Sump Traseiro Transparente",
     "_id": {
-      "$oid": "6324907100d3337db8d7c0d2"
+      "$oid": "632345b400d3337db8d7b1f3"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Curvo Aquaterrário Faixa Preta",
     "_id": {
-      "$oid": "632490b300d3337db8d7c0db"
+      "$oid": "632342a800d3337db8d7b1cf"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Beteira Teruo Yamamoto 1l",
     "_id": {
-      "$oid": "6324932300d3337db8d7c101"
+      "$oid": "6324932100d3337db8d7c0ff"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Tapete Higiênico Pet Mais Ecopads Baby para Cães Filhotes",
     "_id": {
-      "$oid": "6324b37e00d3337db8d7c311"
+      "$oid": "6324b22000d3337db8d7c287"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Pá Higiênica Furacão Pet para Cães e Gatos Rosa",
     "_id": {
-      "$oid": "6324b87d00d3337db8d7c49e"
+      "$oid": "6324b87c00d3337db8d7c49c"
+    },
+    "categoria": {
+      "$oid": "6303d7c84931a32b8aad14a9"
     }
   },
   {
     "nome": "Banheiro Pet Injet Cat Toilet Preto para Gatos",
     "_id": {
-      "$oid": "6324c52f00d3337db8d7ca97"
+      "$oid": "6324c27f00d3337db8d7c93d"
+    },
+    "categoria": {
+      "$oid": "6303d7c84931a32b8aad14a9"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper 3 em 1 - 50 Folhas",
     "_id": {
-      "$oid": "6324c94c00d3337db8d7cc2c"
+      "$oid": "6324b91100d3337db8d7c4dc"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper Turma da Mônica Pets - 50 Folhas",
     "_id": {
-      "$oid": "6324c96500d3337db8d7cc35"
+      "$oid": "6324b96400d3337db8d7c510"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper 3 em 1 Dobrado - 50 Folhas",
     "_id": {
-      "$oid": "6324c97500d3337db8d7cc3e"
+      "$oid": "6324b9c500d3337db8d7c536"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Tapete Higiênico Lavável Nickpet Alvo para Cães Tamanho M",
     "_id": {
-      "$oid": "6324cbad00d3337db8d7ccab"
+      "$oid": "6324cbad00d3337db8d7cca9"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Aquário Retangular Atman 200lt",
     "_id": {
-      "$oid": "63287e7900d3337db8d7d671"
+      "$oid": "6323544d00d3337db8d7b22f"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Caixa de Transporte Alvorada New Preta para Cães e Gatos",
     "_id": {
-      "$oid": "632885a100d3337db8d7d834"
+      "$oid": "63287be300d3337db8d7d520"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Bolsa de Transporte São Pet para Cães Paris",
     "_id": {
-      "$oid": "6328885800d3337db8d7d8f2"
+      "$oid": "6328885400d3337db8d7d8f0"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Aquário Beteira Design para Peixes Casinha Decorada",
     "_id": {
-      "$oid": "63288b0c00d3337db8d7d942"
+      "$oid": "6324846000d3337db8d7bdaf"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Beteira Design Tubular Decorada",
     "_id": {
-      "$oid": "63288c5800d3337db8d7d96f"
+      "$oid": "632484ff00d3337db8d7bdc7"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Hopar HP-300 Preto com Led - 20 Litros",
     "_id": {
-      "$oid": "63288e1d00d3337db8d7d9d3"
+      "$oid": "6323593f00d3337db8d7b238"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Hopar HP-300 Branco com Led - 20 Litros",
     "_id": {
-      "$oid": "63288e9f00d3337db8d7d9e5"
+      "$oid": "63235a6c00d3337db8d7b241"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Hopar HP-400 Preto com Led - 34 Litros",
     "_id": {
-      "$oid": "63288f1a00d3337db8d7d9f7"
+      "$oid": "632482ef00d3337db8d7bd84"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Aquário Hopar HP-400 Branco com Led - 34 Litros",
     "_id": {
-      "$oid": "63288fb200d3337db8d7da00"
+      "$oid": "6324833000d3337db8d7bd94"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Bolsa de Transporte Fábrica Pet Aberta Neon Verde para Cães e Gatos",
     "_id": {
-      "$oid": "6328935100d3337db8d7da65"
+      "$oid": "6328935100d3337db8d7da63"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Bolsa de Transporte Fábrica Pet Mickey Sling Polegar para Cães e Gatos",
     "_id": {
-      "$oid": "6328946d00d3337db8d7da94"
+      "$oid": "6328946b00d3337db8d7da92"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Bolsa de Transporte I Love Pet Pied de Poule Arco-Íris para Cães e Gatos",
     "_id": {
-      "$oid": "63289b0a00d3337db8d7dbb8"
+      "$oid": "63289b0900d3337db8d7dbb1"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Bebedouro Portátil Plast Pet Bege para Cães",
     "_id": {
-      "$oid": "6328a68600d3337db8d7dfb9"
+      "$oid": "6328a66700d3337db8d7dfa7"
+    },
+    "categoria": {
+      "$oid": "6303d72b4931a32b8aad1481"
     }
   },
   {
     "nome": "Comedouro Plast Pet Flex Gourmet Vermelho para Cães e Gatos",
     "_id": {
-      "$oid": "6328a69500d3337db8d7dfc2"
+      "$oid": "6328a67600d3337db8d7dfb0"
+    },
+    "categoria": {
+      "$oid": "6324d2ad00d3337db8d7ccf6"
     }
   },
   {
     "nome": "Almofada Naps Pickorruchos para Cães Rosa",
     "_id": {
-      "$oid": "6328b8af00d3337db8d7eb0f"
+      "$oid": "6328b8af00d3337db8d7eb0d"
+    },
+    "categoria": {
+      "$oid": "6328791800d3337db8d7d46b"
     }
   },
   {
     "nome": "Assento Tubline TransPet para Cães e Gatos Lilás",
     "_id": {
-      "$oid": "6328b94200d3337db8d7eb81"
+      "$oid": "6328b90800d3337db8d7eb54"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Cobertor Urban Puppy para Cães Soft Rosa",
     "_id": {
-      "$oid": "6328ba5900d3337db8d7ec49"
+      "$oid": "6328ba5900d3337db8d7ec47"
+    },
+    "categoria": {
+      "$oid": "6328791800d3337db8d7d46b"
     }
   },
   {
     "nome": "Comedouro Hello Pet Modern Rosa para Cães e Gatos",
     "_id": {
-      "$oid": "6328bd4500d3337db8d7ee3b"
+      "$oid": "6328bd3000d3337db8d7ee27"
+    },
+    "categoria": {
+      "$oid": "6324d2ad00d3337db8d7ccf6"
     }
   },
   {
     "nome": "Jogo Americano Hello Pet Osso Gales Azul para Cães e Gatos",
     "_id": {
-      "$oid": "6328bed300d3337db8d7ef62"
+      "$oid": "6328beae00d3337db8d7ef4e"
+    },
+    "categoria": {
+      "$oid": "6324d2ad00d3337db8d7ccf6"
     }
   },
   {
     "nome": "Cobertor Bonito pra Cachorro Soft Neon Rosa para Cães",
     "_id": {
-      "$oid": "6328c09e00d3337db8d7f07d"
+      "$oid": "6328bfc600d3337db8d7efe1"
+    },
+    "categoria": {
+      "$oid": "6328791800d3337db8d7d46b"
     }
   },
   {
     "nome": "Tapete Higiênico Bartô Diário Canino Mais Lavável para Cães",
     "_id": {
-      "$oid": "6329a5b600d3337db8d7faaa"
+      "$oid": "6324c06800d3337db8d7c86d"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Tapete Higiênico Lavável Vichy Pink para Cães Tamanho P",
     "_id": {
-      "$oid": "6329a8d100d3337db8d7fb16"
+      "$oid": "6324cc2c00d3337db8d7ccb9"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Terrário Horizontal ExoPets para Répteis",
     "_id": {
-      "$oid": "6329aeac00d3337db8d7fc27"
+      "$oid": "6329ae9a00d3337db8d7fc1e"
+    },
+    "categoria": {
+      "$oid": "6303d8c74931a32b8aad14e9"
     }
   },
   {
     "nome": "Substrato ExoPets Pine Bark para Répteis",
     "_id": {
-      "$oid": "6329b23700d3337db8d7fdba"
+      "$oid": "6329afe900d3337db8d7fca3"
+    },
+    "categoria": {
+      "$oid": "6303d8c74931a32b8aad14e9"
     }
   },
   {
     "nome": "Coleira Modernpet Collar Control Camuflado para Cães Tamanho G",
     "_id": {
-      "$oid": "6329b48000d3337db8d7fdfa"
+      "$oid": "631f456400d3337db8d79ade"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Coleira Modernpet Jeans para Cães",
     "_id": {
-      "$oid": "6329b4b400d3337db8d7fe03"
+      "$oid": "631f447500d3337db8d79a9f"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Coleira Modernpet Vermelha para Cães",
     "_id": {
-      "$oid": "6329b54800d3337db8d7fe24"
+      "$oid": "631f441800d3337db8d79a72"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Coleira MeuAuAu Garfield 3 Turquesa para Cães",
     "_id": {
-      "$oid": "6329b96c00d3337db8d7fffa"
+      "$oid": "6329b80300d3337db8d7ff3f"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Coleira MeuAuAu Garfield 3 Turquesa para Cães",
     "_id": {
-      "$oid": "6329b9d000d3337db8d8003d"
+      "$oid": "6329b80300d3337db8d7ff3f"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Vita Vet C Vetnil 30ml",
     "_id": {
-      "$oid": "6329ba2100d3337db8d8006d"
+      "$oid": "630fbb1232dc9a6b5ba93717"
+    },
+    "categoria": {
+      "$oid": "630fbade32dc9a6b5ba9370c"
     }
   },
   {
     "nome": "Caixa de Transportes Atlas 5 Ferplast para Roedores Rosa",
     "_id": {
-      "$oid": "6329bbe400d3337db8d80127"
+      "$oid": "63287efd00d3337db8d7d6be"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Caixa de Transportes Atlas 5 Ferplast para Roedores Vermelha",
     "_id": {
-      "$oid": "6329bc2e00d3337db8d8014d"
+      "$oid": "63287fb500d3337db8d7d6fb"
+    },
+    "categoria": {
+      "$oid": "6303d7704931a32b8aad1495"
     }
   },
   {
     "nome": "Grade de Porta Tubline Plus",
     "_id": {
-      "$oid": "6329bef900d3337db8d802b6"
+      "$oid": "6329b8f400d3337db8d7ffcf"
+    },
+    "categoria": {
+      "$oid": "6303d77e4931a32b8aad1499"
     }
   },
   {
     "nome": "Escada ou Rampa Tubline Azul",
     "_id": {
-      "$oid": "6329bf4c00d3337db8d802e8"
+      "$oid": "6329b93000d3337db8d7ffeb"
+    },
+    "categoria": {
+      "$oid": "6303d77e4931a32b8aad1499"
     }
   },
   {
     "nome": "Extensor Tubline para Grade de Porta Soft e Plus",
     "_id": {
-      "$oid": "6329bfc400d3337db8d80327"
+      "$oid": "6329b97200d3337db8d80003"
+    },
+    "categoria": {
+      "$oid": "6303d77e4931a32b8aad1499"
     }
   },
   {
     "nome": "Ração Zootekna para Chinchila Cobaia",
     "_id": {
-      "$oid": "6329c5f200d3337db8d804cf"
+      "$oid": "630e1ce5485c6fc393495d58"
+    },
+    "categoria": {
+      "$oid": "6303d8554931a32b8aad14d1"
     }
   },
   {
     "nome": "Gaiola Bragança Standard para Coelhos - Cores Sortidas",
     "_id": {
-      "$oid": "6329c64600d3337db8d804ef"
+      "$oid": "6329c64500d3337db8d804ed"
+    },
+    "categoria": {
+      "$oid": "6303d70d4931a32b8aad1479"
     }
   },
   {
     "nome": "Portão de Segurança Gudim Metalon Branco para Cães",
     "_id": {
-      "$oid": "6329cf0200d3337db8d8085c"
+      "$oid": "6329b81d00d3337db8d7ff5d"
+    },
+    "categoria": {
+      "$oid": "6303d77e4931a32b8aad1499"
     }
   },
   {
     "nome": "Coleira Zee.Cat Lola para Gatos",
     "_id": {
-      "$oid": "6329f72900d3337db8d80db0"
+      "$oid": "6329f72900d3337db8d80dae"
+    },
+    "categoria": {
+      "$oid": "630f93ce32dc9a6b5ba92bd2"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper 3 em 1 - 50 Folhas",
     "_id": {
-      "$oid": "6329ff0600d3337db8d810fb"
+      "$oid": "6324b91100d3337db8d7c4dc"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper 3 em 1 Dobrado - 50 Folhas",
     "_id": {
-      "$oid": "6329ff2c00d3337db8d8110b"
+      "$oid": "6324b9c500d3337db8d7c536"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Jornal Higiênico Pet's Paper Turma da Mônica Pets - 50 Folhas",
     "_id": {
-      "$oid": "6329ff6400d3337db8d81114"
+      "$oid": "6324b96400d3337db8d7c510"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Peitoral e Guia MeuMiAu Style Garfield 5 Verde para Gatos",
     "_id": {
-      "$oid": "632a022500d3337db8d812a8"
+      "$oid": "6324673e00d3337db8d7b9e5"
+    },
+    "categoria": {
+      "$oid": "630f93ce32dc9a6b5ba92bd2"
     }
   },
   {
     "nome": "Rede Fábrica Pet Rainbow Disney para Gatos",
     "_id": {
-      "$oid": "632a0a2900d3337db8d815c1"
+      "$oid": "6328a2bb00d3337db8d7de60"
+    },
+    "categoria": {
+      "$oid": "630f743632dc9a6b5ba92996"
     }
   },
   {
     "nome": "Comedouro Duplo American Pets para cães com base - Cores Sortidas",
     "_id": {
-      "$oid": "632a1d1b00d3337db8d818bb"
+      "$oid": "6328b35f00d3337db8d7e77e"
+    },
+    "categoria": {
+      "$oid": "6303d72b4931a32b8aad1481"
     }
   },
   {
     "nome": "Casa Griff Dog para Aves Fêmeas Rosa",
     "_id": {
-      "$oid": "632a4e6400d3337db8d819c3"
+      "$oid": "6329f8a100d3337db8d80e1e"
+    },
+    "categoria": {
+      "$oid": "6324d49700d3337db8d7cd67"
     }
   },
   {
     "nome": "Camiseta Piticas Pantera Negra",
     "_id": {
-      "$oid": "632a670c00d3337db8d81f1d"
+      "$oid": "632a669300d3337db8d81f02"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Jaqueta Zooz Pets Snoopy Abaixo de Zero Vermelha para Cães",
     "_id": {
-      "$oid": "632a677a00d3337db8d81f2d"
+      "$oid": "632a673a00d3337db8d81f26"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a82ec00d3337db8d820c4"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a88bd00d3337db8d82259"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Yoga Dog para Cães e Gatos",
     "_id": {
-      "$oid": "632a895800d3337db8d8227d"
+      "$oid": "632a887c00d3337db8d82247"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a897200d3337db8d82286"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a89dd00d3337db8d822a1"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a8afe00d3337db8d822e9"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632a8b5800d3337db8d82304"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Filtro Externo Boyu WF-2015 para Aquário 150 litros/H 6W",
     "_id": {
-      "$oid": "632afd3700d3337db8d8239c"
+      "$oid": "630a242b485c6fc393494f15"
+    },
+    "categoria": {
+      "$oid": "6303d83f4931a32b8aad14c9"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b091c00d3337db8d827f2"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b097300d3337db8d8280d"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b09f200d3337db8d82843"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b0a1500d3337db8d8284c"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso Caveira para Cães",
     "_id": {
-      "$oid": "632b0a5400d3337db8d82863"
+      "$oid": "632b0a5300d3337db8d8285e"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b0b6800d3337db8d828cc"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b0bf100d3337db8d82921"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Macacão Griff Dog Azul para Cães e Gatos",
     "_id": {
-      "$oid": "632b0c5a00d3337db8d82971"
+      "$oid": "632a8a0000d3337db8d822aa"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Lâmpada Boyu Led Luminescente para Aquários EC600",
     "_id": {
-      "$oid": "632b100800d3337db8d82a04"
+      "$oid": "632afe1500d3337db8d823ed"
+    },
+    "categoria": {
+      "$oid": "6303d8174931a32b8aad14c1"
     }
   },
   {
     "nome": "Condicionador Labcon Grander Antialgas 1kg",
     "_id": {
-      "$oid": "632b122400d3337db8d82aa3"
+      "$oid": "6310e93800d3337db8d74039"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Labcon Garden Cristal 1l",
     "_id": {
-      "$oid": "632b125b00d3337db8d82ac5"
+      "$oid": "6310ee4f00d3337db8d74168"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Alcon Repto Protect 100ml",
     "_id": {
-      "$oid": "632b129300d3337db8d82ade"
+      "$oid": "6310e9a000d3337db8d74053"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Biocultura Labcon Flora BAC para Aquários - 100ml",
     "_id": {
-      "$oid": "632b12c500d3337db8d82b08"
+      "$oid": "6312032800d3337db8d74ec6"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Alcon Alcali para Aquários 100ml",
     "_id": {
-      "$oid": "632b131200d3337db8d82b46"
+      "$oid": "6312040900d3337db8d74ed4"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Alcon Acid para Aquários 100ml",
     "_id": {
-      "$oid": "632b134400d3337db8d82b73"
+      "$oid": "631203af00d3337db8d74ecd"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Nutricon Anti Cloro para Aquários 15ml",
     "_id": {
-      "$oid": "632b137e00d3337db8d82ba0"
+      "$oid": "6312054f00d3337db8d74ee9"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Nutricon Clarificante para Aquários 15ml",
     "_id": {
-      "$oid": "632b13a500d3337db8d82bb4"
+      "$oid": "6312048f00d3337db8d74edb"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Nutricon Anti Algas para Aquários 15ml",
     "_id": {
-      "$oid": "632b13c600d3337db8d82bcb"
+      "$oid": "6312050500d3337db8d74ee2"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Nutricon para Aquários 30ml",
     "_id": {
-      "$oid": "632b13f400d3337db8d82bd9"
+      "$oid": "6312058600d3337db8d74ef0"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Nutricon Acidificante para Aquários 15ml",
     "_id": {
-      "$oid": "632b141d00d3337db8d82bf4"
+      "$oid": "631205e900d3337db8d74f02"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Tetra Aqua Safe",
     "_id": {
-      "$oid": "632b146b00d3337db8d82c28"
+      "$oid": "631206b800d3337db8d74f47"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Cristal",
     "_id": {
-      "$oid": "632b149800d3337db8d82c45"
+      "$oid": "6312099900d3337db8d74f9d"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Anticloro",
     "_id": {
-      "$oid": "632b14c300d3337db8d82c69"
+      "$oid": "631209cb00d3337db8d74fa4"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Aqualife",
     "_id": {
-      "$oid": "632b14e400d3337db8d82c82"
+      "$oid": "6312071b00d3337db8d74f54"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Alcali",
     "_id": {
-      "$oid": "632b151300d3337db8d82c98"
+      "$oid": "63120a1900d3337db8d74fbe"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Antialgas",
     "_id": {
-      "$oid": "632b158c00d3337db8d82ce5"
+      "$oid": "63120a6100d3337db8d74fc5"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Protect Plus",
     "_id": {
-      "$oid": "632b15ab00d3337db8d82cfe"
+      "$oid": "63120ab800d3337db8d74fcc"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Acid",
     "_id": {
-      "$oid": "632b15d100d3337db8d82d12"
+      "$oid": "63120ae900d3337db8d74fd3"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Sanitizante",
     "_id": {
-      "$oid": "632b160000d3337db8d82d3f"
+      "$oid": "63120c3700d3337db8d74fe4"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador Água Labcon Peixes Clean",
     "_id": {
-      "$oid": "632b163700d3337db8d82d65"
+      "$oid": "63120c8a00d3337db8d74feb"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Seachem Prime para Aquário 325ml",
     "_id": {
-      "$oid": "632b165c00d3337db8d82d83"
+      "$oid": "63137da700d3337db8d75bfd"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Suplemento Seachem Peixes Stability",
     "_id": {
-      "$oid": "632b169100d3337db8d82da6"
+      "$oid": "63137d1000d3337db8d75beb"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Condicionador de Água Seachem Prime para Peixes",
     "_id": {
-      "$oid": "632b177200d3337db8d82e43"
+      "$oid": "63137d6f00d3337db8d75bf4"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Guia Cordão Flexi Bogdahn Black Design Azul para Cães",
     "_id": {
-      "$oid": "632b178500d3337db8d82e4c"
+      "$oid": "63231b1f00d3337db8d7ab6f"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Condicionador de Água Seachem Acid Buffer para Aquário 70g",
     "_id": {
-      "$oid": "632b17e100d3337db8d82e82"
+      "$oid": "6318a2e600d3337db8d770ea"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Guia Fita New Comfort Flexi para Cães Rosa",
     "_id": {
-      "$oid": "632b17e500d3337db8d82e89"
+      "$oid": "63231c3300d3337db8d7abec"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Guia Flexi Design Para Cães Cordão Preto e Verde",
     "_id": {
-      "$oid": "632b1a6b00d3337db8d83004"
+      "$oid": "632b1a6b00d3337db8d83002"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Moletom Modernpet com Capuz Azul para Cães",
     "_id": {
-      "$oid": "632b1c3300d3337db8d830bd"
+      "$oid": "632b099700d3337db8d82821"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1c7400d3337db8d830f3"
+      "$oid": "632a82be00d3337db8d820bb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1c9100d3337db8d83117"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1cb800d3337db8d83129"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1d1300d3337db8d83175"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Casaco Urban Puppy Moletom com Capuz Lilás para Cães e Gatos",
     "_id": {
-      "$oid": "632b1d3700d3337db8d83195"
+      "$oid": "632b093900d3337db8d827fb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta Caveira para Cães",
     "_id": {
-      "$oid": "632b1d8c00d3337db8d831df"
+      "$oid": "632a8c5600d3337db8d8234c"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Yoga Dog para Cães e Gatos",
     "_id": {
-      "$oid": "632b1dac00d3337db8d83201"
+      "$oid": "632a887c00d3337db8d82247"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Griff Dog Donut Rosa para Cães",
     "_id": {
-      "$oid": "632b1dca00d3337db8d83223"
+      "$oid": "632a8b7900d3337db8d8230d"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1deb00d3337db8d83237"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Yoga Dog para Cães e Gatos",
     "_id": {
-      "$oid": "632b1e5200d3337db8d83281"
+      "$oid": "632a887c00d3337db8d82247"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1e8800d3337db8d832b0"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Laço Pickorruchos York para Cães - Cores Sortidas",
     "_id": {
-      "$oid": "632b1eab00d3337db8d832c9"
+      "$oid": "632a892200d3337db8d82274"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Yoga Dog para Cães e Gatos",
     "_id": {
-      "$oid": "632b1ed400d3337db8d832e2"
+      "$oid": "632a887c00d3337db8d82247"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Laço Pickorruchos Xadrez EVA para Cães 2 Unidades - Cores Sortidas",
     "_id": {
-      "$oid": "632b1ef400d3337db8d832f4"
+      "$oid": "632a8aa000d3337db8d822ce"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1f0f00d3337db8d8330f"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Laço Pickorruchos Pom-pom para Cães",
     "_id": {
-      "$oid": "632b1f2d00d3337db8d8332a"
+      "$oid": "632a8ad900d3337db8d822e0"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Boina Modernpet Vermelha para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1f4d00d3337db8d83335"
+      "$oid": "632a89b600d3337db8d82298"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b1f6a00d3337db8d83357"
+      "$oid": "632a808c00d3337db8d82034"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Laço Pickorruchos para Cães - Cores Sortidas",
     "_id": {
-      "$oid": "632b1f8b00d3337db8d83369"
+      "$oid": "632a8b1b00d3337db8d822f2"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet com Bolso Caveira para Cães",
     "_id": {
-      "$oid": "632b1fca00d3337db8d8338f"
+      "$oid": "632b0a5300d3337db8d8285e"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Blusa Griff Dog Glacê Preto para Cães e Gatos",
     "_id": {
-      "$oid": "632b1fec00d3337db8d833a6"
+      "$oid": "632a8a6000d3337db8d822c5"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Modernpet Caveira para Cães",
     "_id": {
-      "$oid": "632b201100d3337db8d833bd"
+      "$oid": "632b0a7100d3337db8d82869"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Griff Dog Diamond para Cães",
     "_id": {
-      "$oid": "632b208e00d3337db8d833e1"
+      "$oid": "632b08ec00d3337db8d827d9"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Boina Modernpet Bege para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b20cc00d3337db8d83405"
+      "$oid": "632a8b3d00d3337db8d822fb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Comedouro Alvorada Anti Formigas Lilás para Gatos",
     "_id": {
-      "$oid": "632b211800d3337db8d8342c"
+      "$oid": "632b211600d3337db8d83429"
+    },
+    "categoria": {
+      "$oid": "630f743632dc9a6b5ba92996"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Caveirinha para Cães e Gatos",
     "_id": {
-      "$oid": "632b21b100d3337db8d83457"
+      "$oid": "632a8b9400d3337db8d82316"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Boina Modernpet Azul Royal para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b221000d3337db8d83475"
+      "$oid": "632a8bb200d3337db8d8231f"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Boina Modernpet Azul Bebê para Cães - Estampas Sortidas",
     "_id": {
-      "$oid": "632b224600d3337db8d83487"
+      "$oid": "632a8c1a00d3337db8d8233a"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Bandana Acapulco Pet Camuflado Exército para Cães e Gatos",
     "_id": {
-      "$oid": "632b232d00d3337db8d834d2"
+      "$oid": "632b095700d3337db8d82804"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Blusa Griff Dog com Capuz Rosa para Cães e Gatos",
     "_id": {
-      "$oid": "632b23db00d3337db8d8354e"
+      "$oid": "632b08cc00d3337db8d827be"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Camiseta Piticas Dragon Ball Shenlong para Cães",
     "_id": {
-      "$oid": "632b24ac00d3337db8d835e0"
+      "$oid": "632b09d400d3337db8d8283a"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Suplemento Prodac Fertilizante Nutronferro para Aquários",
     "_id": {
-      "$oid": "632b276900d3337db8d83784"
+      "$oid": "632b276900d3337db8d83782"
+    },
+    "categoria": {
+      "$oid": "6303d83f4931a32b8aad14c9"
     }
   },
   {
     "nome": "Gravata Griff Dog Diamond para Cães",
     "_id": {
-      "$oid": "632b28fc00d3337db8d837f0"
+      "$oid": "632a889900d3337db8d82250"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Blusa Griff Dog com Capuz Azul para Cães e Gatos",
     "_id": {
-      "$oid": "632b295400d3337db8d8381d"
+      "$oid": "632b0a3200d3337db8d82855"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Gravata Griff Dog Chevron Rosa para Cães",
     "_id": {
-      "$oid": "632b2b5600d3337db8d83907"
+      "$oid": "632b087200d3337db8d827a7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Vestido Griff Dog Lã Rosa para Cães e Gatos",
     "_id": {
-      "$oid": "632b2bea00d3337db8d83946"
+      "$oid": "632a890100d3337db8d8226b"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Gravata Griff Dog Chuvisco Rosa para Cães",
     "_id": {
-      "$oid": "632b2c2800d3337db8d83958"
+      "$oid": "632a8bf900d3337db8d82331"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Gravata Griff Dog Caveira para Cães",
     "_id": {
-      "$oid": "632b2c4100d3337db8d83961"
+      "$oid": "632b09b700d3337db8d82831"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Capa Fábrica Pet Polegar Mickey para Cães",
     "_id": {
-      "$oid": "632b305300d3337db8d83a2e"
+      "$oid": "632b2e7b00d3337db8d839eb"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Guia Ferplast Ergofluo Matic Azul para Cães",
     "_id": {
-      "$oid": "632b58fe00d3337db8d840ef"
+      "$oid": "6322244f00d3337db8d7a84d"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Teste Alcon Peixes Amônia Tóxica Doce",
     "_id": {
-      "$oid": "632b59b200d3337db8d84163"
+      "$oid": "6312081e00d3337db8d74f72"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Guia Daytona G Ferplast para Cães Preta",
     "_id": {
-      "$oid": "632b5a8000d3337db8d841ca"
+      "$oid": "63221cb500d3337db8d7a7fc"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Guia Ferplast Nylon Linear para Cães",
     "_id": {
-      "$oid": "632b5bc200d3337db8d8427c"
+      "$oid": "63221b3a00d3337db8d7a7e4"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Kit de Testes Labcon Peixes pH Tropical",
     "_id": {
-      "$oid": "632b5beb00d3337db8d84297"
+      "$oid": "6312085c00d3337db8d74f79"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Guia Ferplast Nylon Linear para Cães",
     "_id": {
-      "$oid": "632b5bfd00d3337db8d842a0"
+      "$oid": "63221b3a00d3337db8d7a7e4"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Kit de Testes Labcon Peixes Nitrito Mar/Doce",
     "_id": {
-      "$oid": "632b5c2300d3337db8d842b4"
+      "$oid": "6312089b00d3337db8d74f91"
+    },
+    "categoria": {
+      "$oid": "6303d8264931a32b8aad14c5"
     }
   },
   {
     "nome": "Bandana Modernpet Gravata Borboleta para Cães - Estampas sortidas",
     "_id": {
-      "$oid": "632bb93300d3337db8d84ad0"
+      "$oid": "632a8abe00d3337db8d822d7"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Laço Pickorruchos Xadrez para Cães - Cores Sortidas",
     "_id": {
-      "$oid": "632bba3200d3337db8d84b06"
+      "$oid": "632bb9eb00d3337db8d84afd"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Blusinha Pop Griff Dog para Cães Vermelho",
     "_id": {
-      "$oid": "632bbc3b00d3337db8d84b84"
+      "$oid": "632a80ad00d3337db8d8203d"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Substrato Para Aquários Aqua Pedras Cascalho de Rio",
     "_id": {
-      "$oid": "632c551d00d3337db8d84ca1"
+      "$oid": "630a2318485c6fc393494f0e"
+    },
+    "categoria": {
+      "$oid": "6303d84a4931a32b8aad14cd"
     }
   },
   {
     "nome": "Decoração Soma Peixes Jelly Big",
     "_id": {
-      "$oid": "632c66c700d3337db8d853cc"
+      "$oid": "632c66a000d3337db8d853ba"
+    },
+    "categoria": {
+      "$oid": "6303d84a4931a32b8aad14cd"
     }
   },
   {
     "nome": "Decoração Soma Peixes Jelly Combo",
     "_id": {
-      "$oid": "632c671e00d3337db8d853e7"
+      "$oid": "632c56d600d3337db8d84d4e"
+    },
+    "categoria": {
+      "$oid": "6303d84a4931a32b8aad14cd"
     }
   },
   {
     "nome": "Peitoral Piticas Thor",
     "_id": {
-      "$oid": "632c70e900d3337db8d855fd"
+      "$oid": "632c70e900d3337db8d855fb"
+    },
+    "categoria": {
+      "$oid": "6303d75a4931a32b8aad148d"
     }
   },
   {
     "nome": "Ração Fitpets Cães Blueberry",
     "_id": {
-      "$oid": "633afb94d4b8bf4d69c8d515"
+      "$oid": "633af9d5d4b8bf4d69c8d4b2"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Tapete Higiênico Pet Like Good Pads Slim 80x60 para Cães 30 Unidades",
     "_id": {
-      "$oid": "634ee4556c78b7bf051f8bd0"
+      "$oid": "632475c600d3337db8d7bbe8"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Frontmax Coleira 26 G Cães Acima 4 Kg Vetoquinol",
     "_id": {
-      "$oid": "634eeebb6c78b7bf051f8cdd"
+      "$oid": "634ebec56c78b7bf051f8978"
+    },
+    "categoria": {
+      "$oid": "6303d7454931a32b8aad1489"
     }
   },
   {
     "nome": "Ração Úmida Nestlé Purina Friskies Sachê Carne ao Molho para Gatos Filhotes",
     "_id": {
-      "$oid": "634eef316c78b7bf051f8cf1"
+      "$oid": "634ebb616c78b7bf051f8913"
+    },
+    "categoria": {
+      "$oid": "6303d86c4931a32b8aad14d9"
     }
   },
   {
     "nome": "Mordedor HomePet",
     "_id": {
-      "$oid": "634ef1866c78b7bf051f8d6e"
+      "$oid": "634eb12b6c78b7bf051f8741"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Molho para ração seca sabor peixe",
     "_id": {
-      "$oid": "63503384afafba20d3780daf"
+      "$oid": "634eb5376c78b7bf051f8818"
+    },
+    "categoria": {
+      "$oid": "6303d86c4931a32b8aad14d9"
     }
   },
   {
     "nome": "Mordedor Biju",
     "_id": {
-      "$oid": "63503701afafba20d3780e44"
+      "$oid": "634ef3d26c78b7bf051f8d94"
+    },
+    "categoria": {
+      "$oid": "6303d6804931a32b8aad144a"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351957d851ff797a811a76a"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351959e851ff797a811a780"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "635195bc851ff797a811a79a"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "635195e3851ff797a811a7a7"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "63519679851ff797a811a7ba"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Comedouro Bebedouro de Silicone Portátil",
     "_id": {
-      "$oid": "6351a6f587c40f2dbf0d245b"
+      "$oid": "6351a6d687c40f2dbf0d2452"
+    },
+    "categoria": {
+      "$oid": "6303d72b4931a32b8aad1481"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351aa2a87c40f2dbf0d24c0"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351aa4d87c40f2dbf0d24c9"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351aa5087c40f2dbf0d24d0"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351aa6d87c40f2dbf0d24d4"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Meia Bom Amigo",
     "_id": {
-      "$oid": "6351aa8a87c40f2dbf0d24dd"
+      "$oid": "635194f9851ff797a811a754"
+    },
+    "categoria": {
+      "$oid": "635195a2851ff797a811a789"
     }
   },
   {
     "nome": "Cafuné Shampoo Pelos Claros",
     "_id": {
-      "$oid": "6352f26887c40f2dbf0d2dc9"
+      "$oid": "6317484e00d3337db8d76993"
+    },
+    "categoria": {
+      "$oid": "6310043c00d3337db8d72dd5"
     }
   },
   {
     "nome": "Stomorgyl 10 Antibiótico Boehringer Ingelheim para Cães e Gatos",
     "_id": {
-      "$oid": "6352f75087c40f2dbf0d2e4b"
+      "$oid": "6310bf7d00d3337db8d73cf2"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Vermífugo Labyes Feline Endospot para Gatos de 2 a 5kg",
     "_id": {
-      "$oid": "6356e9b687c40f2dbf0d32ad"
+      "$oid": "63160a9b00d3337db8d75f15"
+    },
+    "categoria": {
+      "$oid": "630f736a32dc9a6b5ba92968"
     }
   },
   {
     "nome": "Cama Pet Para Cachorro Raças Grande",
     "_id": {
-      "$oid": "6358099a95f8660a8152bc28"
+      "$oid": "6358097b95f8660a8152bc1f"
+    },
+    "categoria": {
+      "$oid": "6328791800d3337db8d7d46b"
     }
   },
   {
     "nome": "Cama Pet Para Cachorro Raças Grande",
     "_id": {
-      "$oid": "635809cf95f8660a8152bc31"
+      "$oid": "6358097b95f8660a8152bc1f"
+    },
+    "categoria": {
+      "$oid": "6328791800d3337db8d7d46b"
     }
   },
   {
     "nome": "Otocanis Clean Limpeza de Orelha Cães e Gatos Provets 100 ml",
     "_id": {
-      "$oid": "63583f5f95f8660a8152bff3"
+      "$oid": "6356e92b87c40f2dbf0d32a4"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Peitoral com Plaquinhas de identificacao para Caes e Gatos",
     "_id": {
-      "$oid": "6359324295f8660a8152c29b"
+      "$oid": "6359311495f8660a8152c27f"
+    },
+    "categoria": {
+      "$oid": "635814a295f8660a8152bc68"
     }
   },
   {
     "nome": "Peitoral com Plaquinhas de identificacao para Caes e Gatos",
     "_id": {
-      "$oid": "6359327795f8660a8152c2a4"
+      "$oid": "6359311495f8660a8152c27f"
+    },
+    "categoria": {
+      "$oid": "635814a295f8660a8152bc68"
     }
   },
   {
     "nome": "Peitoral com Plaquinhas de identificacao para Caes e Gatos",
     "_id": {
-      "$oid": "635932a095f8660a8152c2ad"
+      "$oid": "6359311495f8660a8152c27f"
+    },
+    "categoria": {
+      "$oid": "635814a295f8660a8152bc68"
     }
   },
   {
     "nome": "Peitoral com Plaquinhas de identificacao para Caes e Gatos",
     "_id": {
-      "$oid": "6359339995f8660a8152c2b6"
+      "$oid": "6359311495f8660a8152c27f"
+    },
+    "categoria": {
+      "$oid": "635814a295f8660a8152bc68"
     }
   },
   {
     "nome": "Tapete Higiênico 60x90cm - Club Pet Import - com 7 unidades",
     "_id": {
-      "$oid": "6359aee595f8660a8152ca6c"
+      "$oid": "634ee5ba6c78b7bf051f8bf1"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Sarcopen Sachê 10g para Cães e Gatos",
     "_id": {
-      "$oid": "635a9185169edc9285230efe"
+      "$oid": "6312012300d3337db8d74e96"
+    },
+    "categoria": {
+      "$oid": "6310080600d3337db8d73084"
     }
   },
   {
     "nome": "Sabonete Pet Clean Coco para Cães e Gatos 80g",
     "_id": {
-      "$oid": "635fc252d52f8aad625eb532"
+      "$oid": "6316511900d3337db8d76575"
+    },
+    "categoria": {
+      "$oid": "6310044a00d3337db8d72dd9"
     }
   },
   {
     "nome": "Regata",
     "_id": {
-      "$oid": "636bb3e4901a55778cc0b795"
+      "$oid": "636bb3a2901a55778cc0b751"
+    },
+    "categoria": {
+      "$oid": "6303d6c34931a32b8aad1461"
     }
   },
   {
     "nome": "Osso Puretoy Casco Bovino para Cães de Porte Pequeno e Médio",
     "_id": {
-      "$oid": "652ff5890b1437204902f0b2"
+      "$oid": "631f8c6c00d3337db8d79ef2"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Osso Puretoy Chifre Bovino para Cães",
     "_id": {
-      "$oid": "652ff6b60b1437204902f0b3"
+      "$oid": "63208d0300d3337db8d79ff5"
+    },
+    "categoria": {
+      "$oid": "6303d7004931a32b8aad1475"
     }
   },
   {
     "nome": "Suplemento Organnact Promun Dog Sticks para Cães 160g",
     "_id": {
-      "$oid": "652ffdcf0a632269ad0802e3"
+      "$oid": "6316000300d3337db8d75ddd"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Organnact Pelefood Dog Sticks para Cães",
     "_id": {
-      "$oid": "652ffeb00b1437204902f0b4"
+      "$oid": "6312446c00d3337db8d753a3"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Organnact Puppy Sticks para Cães 170g",
     "_id": {
-      "$oid": "652fff32e3a38e6938063ed2"
+      "$oid": "6312442000d3337db8d75391"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Food Dog Botupharma Baixo Fósforo",
     "_id": {
-      "$oid": "6530061b350890d47a0b67d4"
+      "$oid": "6312471d00d3337db8d75481"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Food Dog Botupharma Adulto",
     "_id": {
-      "$oid": "653006870a632269ad0802e4"
+      "$oid": "631246c500d3337db8d75466"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Food Dog Botupharma Zero Proteína Animal",
     "_id": {
-      "$oid": "653007050b1437204902f0b5"
+      "$oid": "631246de00d3337db8d7546f"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Botupharma Dietas Cruas com Ossos para Cães",
     "_id": {
-      "$oid": "653007f3e3a38e6938063ed3"
+      "$oid": "63124db000d3337db8d75537"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Suplemento Botupharma Dietas Cruas sem Ossos para Cães 500 g",
     "_id": {
-      "$oid": "6530099c7d3a9181220d0cd6"
+      "$oid": "6312482c00d3337db8d754c0"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Anti-inflamatório Meloxinew 10 Comprimidos Vetnil para Cães e Gatos",
     "_id": {
-      "$oid": "653140180c96f983750e2822"
+      "$oid": "630fa85932dc9a6b5ba93282"
+    },
+    "categoria": {
+      "$oid": "630ff8bb00d3337db8d729a1"
     }
   },
   {
     "nome": "Proden Plaque Off Inovet 40g",
     "_id": {
-      "$oid": "653143cb0c96f983750e2823"
+      "$oid": "631a3c5700d3337db8d77f55"
+    },
+    "categoria": {
+      "$oid": "6310044a00d3337db8d72dd9"
     }
   },
   {
     "nome": "Suplemento Red Up Dog Botupharma 210g",
     "_id": {
-      "$oid": "653147c01bf691d61a05b872"
+      "$oid": "63124e3e00d3337db8d7556b"
+    },
+    "categoria": {
+      "$oid": "6303d6e84931a32b8aad146d"
     }
   },
   {
     "nome": "Ração Pro Plan Veterinary Diets Hipoalergênica HA para Cães",
     "_id": {
-      "$oid": "653172c60ba5b317f90474e2"
+      "$oid": "63063bfad2070878db8a2d95"
+    },
+    "categoria": {
+      "$oid": "6303d6aa4931a32b8aad1455"
     }
   },
   {
     "nome": "Arranhador São pet",
     "_id": {
-      "$oid": "653292f78681cf89230f00a2"
+      "$oid": "653292bef54001a04b0253c2"
+    },
+    "categoria": {
+      "$oid": "632878d100d3337db8d7d45a"
     }
   },
   {
     "nome": "Arranhador são pet",
     "_id": {
-      "$oid": "65329317d993c155a201ae12"
+      "$oid": "653292bef54001a04b0253c2"
+    },
+    "categoria": {
+      "$oid": "632878d100d3337db8d7d45a"
     }
   },
   {
     "nome": "CAMA ACÃOCHEGO",
     "_id": {
-      "$oid": "653295518681cf89230f00a3"
+      "$oid": "653295511f9f132d2a052d43"
+    },
+    "categoria": {
+      "$oid": "6328789700d3337db8d7d44e"
     }
   },
   {
     "nome": "Sanitário DuraPets Sani Dog Azul para Cães",
     "_id": {
-      "$oid": "655627e1d3fedcd6fe01e742"
+      "$oid": "632872f500d3337db8d7d34a"
+    },
+    "categoria": {
+      "$oid": "6303d73a4931a32b8aad1485"
     }
   },
   {
     "nome": "Nestlé Purina Friskies Ração Seca Para Gatos Adultos Peixes E Frutos Do Mar",
     "_id": {
-      "$oid": "6581b7e6f9cf6d755901f122"
+      "$oid": "6581b64d95ff8c28e3059502"
+    },
+    "categoria": {
+      "$oid": "6303d86c4931a32b8aad14d9"
     }
   }
 ]
