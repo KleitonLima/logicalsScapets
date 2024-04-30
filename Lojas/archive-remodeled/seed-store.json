@@ -1,0 +1,652 @@
+[
+  {
+    "cnpj": "33167939000102",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET WAY ARACAJU",
+    "businessName": "PET WAY ARACAJU",
+    "phone": "79991249798",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664840447587-939030998.jpg"
+  },
+  {
+    "cnpj": "40255350000113",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "TCHUC'OS RAÇÕES",
+    "businessName": "GILVAN ANDRADE FERREIRA",
+    "phone": "79998093500",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843947154-690043089.jpg"
+  },
+  {
+    "cnpj": "43426362000151",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "CANTINHO DAS RAÇÕES",
+    "businessName": "Cantinho das rações",
+    "phone": "79991558682",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844086828-430883275.jpg"
+  },
+  {
+    "cnpj": "18078750000141",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET VILLE",
+    "businessName": "Pet ville comercio e serviços LTDA",
+    "phone": "7932487185",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844367466-309507032.jpg"
+  },
+  {
+    "cnpj": "29541233000183",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "SUPREMO RAÇÕES E PET SHOP",
+    "businessName": "JULIANA DA SILVA MOURA XAVIER",
+    "phone": "79996123321",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844874621-618045795.jpg"
+  },
+  {
+    "cnpj": "14838524000160",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "RAÇÃO ISTO É",
+    "businessName": "EDVALDO DA SILVA MORAIS JUNIOR",
+    "phone": "79988448789",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844846712-834754263.jpg"
+  },
+  {
+    "cnpj": "41180305000100",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "ALFAPET",
+    "businessName": "Diego Fernandes",
+    "phone": "79981021103",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844814271-162999430.jpg"
+  },
+  {
+    "cnpj": "40686500000143",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "MIMU'S PET SHOP",
+    "businessName": "Anne Camila Rocha",
+    "phone": "79988771638",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844727172-470661073.jpg"
+  },
+  {
+    "cnpj": "28941518000149",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET SHOW ARUANA",
+    "businessName": "Samanta Tábata Vieira Alves nascimento ",
+    "phone": "79999711948",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844697564-882431892.jpg"
+  },
+  {
+    "cnpj": "44444444444444",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "SPA DO PET",
+    "businessName": "Alanna Suelen Magalhães Santos",
+    "phone": "79981228658",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844662849-392576515.jpg"
+  },
+  {
+    "cnpj": "32743593000172",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "4 PATAS CLÍNICA VETERINÁRIA",
+    "businessName": "Hortência Cecília Gomes Gonçalves ",
+    "phone": "7932433430",
+    "avatar": null
+  },
+  {
+    "cnpj": "45225181000192",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "REINO PET",
+    "businessName": "B & J consultório veterinário e pet shop LTDA pet ",
+    "phone": "79991519891",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844630452-873582485.jpg"
+  },
+  {
+    "cnpj": "12058158000100",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "DOGSHOW",
+    "businessName": "Fernando Santana ",
+    "phone": "79991397207",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844567189-774137293.jpg"
+  },
+  {
+    "cnpj": "24425188000188",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "OH MY DOG",
+    "businessName": "Raiana Moura de souza",
+    "phone": "7930240643",
+    "avatar": null
+  },
+  {
+    "cnpj": "28505231000176",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET HOUSE Luzia",
+    "businessName": "Pet House Comércio e Serviços LTDA",
+    "phone": "79999260132",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844528605-925055333.jpg"
+  },
+  {
+    "cnpj": "45116850000198",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "AUQMIA PET SHOP",
+    "businessName": "MARCOS AURELIO MIRANDA SILVA 00233727531",
+    "phone": "79996026560",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844501123-466664955.jpg"
+  },
+  {
+    "cnpj": "12865972000128",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "LE PETIT PET SHOP",
+    "businessName": "EDSON NASCIMENTO REZENDE 66286514520",
+    "phone": "7935124357",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844473658-333464422.jpg"
+  },
+  {
+    "cnpj": "26131556000110",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "CLINPET PET SHOP",
+    "businessName": "Winny",
+    "phone": "79988470959",
+    "avatar": null
+  },
+  {
+    "cnpj": "44771975000199",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "XODÓ PET",
+    "businessName": "Marcilio Pereira Santos",
+    "phone": "79996928435",
+    "avatar": null
+  },
+  {
+    "cnpj": "34320787000190",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "DM RAÇÕES E PET",
+    "businessName": "Diogenes Meireles dos Santos ",
+    "phone": "79998384178",
+    "avatar": null
+  },
+  {
+    "cnpj": "26187796000127",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "S.O.S RAÇÕES",
+    "businessName": "Esle",
+    "phone": "79982603374",
+    "avatar": null
+  },
+  {
+    "cnpj": "26738885000114",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "AGROCENTER",
+    "businessName": "Agrocenter Produtos Agropecuarios e Veterinarios LTDA",
+    "phone": "79999494300",
+    "avatar": null
+  },
+  {
+    "cnpj": "39779191000177",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET AJU",
+    "businessName": "Natane",
+    "phone": "79999025552",
+    "avatar": null
+  },
+  {
+    "cnpj": "29732202000100",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET HOUSE CAMINHO DE CASA",
+    "businessName": "MARIA EDUARDA GONCALVES MELO REIS ALBUQUERQUE DE JESUS",
+    "phone": "79998173545",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843873864-435587930.jpg"
+  },
+  {
+    "cnpj": "17864327000104",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "DOG CHIC PET SHOP",
+    "businessName": "Vaneide Santos",
+    "phone": "79999770822",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843927987-69939991.jpg"
+  },
+  {
+    "cnpj": "31820041000158",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET KINGDOM",
+    "businessName": "Julicris",
+    "phone": "79991194647",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843964900-491118252.jpg"
+  },
+  {
+    "cnpj": "38334874000158",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "HAPPY PET",
+    "businessName": "Poliana Cruz Almeida lima LTDA",
+    "phone": "79981025931",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843992661-814432600.jpg"
+  },
+  {
+    "cnpj": "43398026000142",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET BOX PET SHOP",
+    "businessName": "Isabela Ferreira de Santana",
+    "phone": "79999575359",
+    "avatar": null
+  },
+  {
+    "cnpj": "32870979000145",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "RECANTO PET HOTEL",
+    "businessName": "Juliana Lemos  Feitosa ",
+    "phone": "7996881339",
+    "avatar": null
+  },
+  {
+    "cnpj": "20788560000160",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET CLAU",
+    "businessName": "Claudelice Passos Freire",
+    "phone": "79998261911",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844033185-471467925.jpg"
+  },
+  {
+    "cnpj": "36801202000180",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "COMFORT PET SHOP",
+    "businessName": "Iva Paula Santana Cordeiro",
+    "phone": "79998408784",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844082805-999547383.jpg"
+  },
+  {
+    "cnpj": "15019301000134",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "ANIMAL PAT LAB",
+    "businessName": "RR Andrade laboratório de análise  veterinárias LTDA ",
+    "phone": "7930860007",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844112414-957801844.jpg"
+  },
+  {
+    "cnpj": "39975895000115",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "CLINICA VETERINÁRIA MIADO DE GATO",
+    "businessName": "Draucia Viviane Pratta",
+    "phone": "79996866368",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844143982-261539566.jpg"
+  },
+  {
+    "cnpj": "41615359000150",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "CLÍNICA VETERINÁRIA SÃO LÁZARO",
+    "businessName": "Maira Oliveira Paixão",
+    "phone": "7932432508",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844172760-391588914.jpg"
+  },
+  {
+    "cnpj": "35456809000107",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "SERIGY PET",
+    "businessName": "Sereluiz gonzaga de freitas neto",
+    "phone": "79999880300",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844253349-943830163.jpg"
+  },
+  {
+    "cnpj": "42431091000060",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "BARRETO PETSHOW",
+    "businessName": "Lidia",
+    "phone": "79981195620",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844289802-697586527.jpg"
+  },
+  {
+    "cnpj": "45734319000189",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "TERRA PET",
+    "businessName": "Terra Pet LDTA",
+    "phone": "79996604770",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664844318500-322463363.jpg"
+  },
+  {
+    "cnpj": "43663452000166",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET VIDA",
+    "businessName": "Mislene",
+    "phone": "79999349744",
+    "avatar": null
+  },
+  {
+    "cnpj": "46956565000148",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET BICHARADA",
+    "businessName": "ALINE DA SILVEIRA ADORNO CARNEIRO",
+    "phone": "79996919196",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843813800-705655895.jpg"
+  },
+  {
+    "cnpj": "46536099000141",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "MIMOS PET SHOP SE",
+    "businessName": "IVANILSON CARLOS DOS SANTOS FARIAS 06894010510",
+    "phone": "79996522408",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843766988-989664733.jpg"
+  },
+  {
+    "cnpj": "32009811000140",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "TXUTXUCAO PET SHOP",
+    "businessName": "Karla Graziela Santos Nunes",
+    "phone": "79998409240",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843737207-601642666.jpg"
+  },
+  {
+    "cnpj": "34043300000170",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET VITTA",
+    "businessName": "GUSTAVO ALMEIDA MELO",
+    "phone": "79999610101",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843705654-308387863.jpg"
+  },
+  {
+    "cnpj": "7169534000195",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "COMPANHIA DO BICHO",
+    "businessName": "companhia do bicho clinica veterinaria",
+    "phone": "79998613193",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843670870-638822973.jpg"
+  },
+  {
+    "cnpj": "30733951000130",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "DW PET SHOP",
+    "businessName": "dw santana comercio e serviço ltda",
+    "phone": "79999999040",
+    "avatar": null
+  },
+  {
+    "cnpj": "28007688000150",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PETLÂNDIA",
+    "businessName": "SANTANA OLIVEIRA PETSHOP LTDA ME",
+    "phone": "79996644998",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1664843516724-866654486.jpg"
+  },
+  {
+    "cnpj": "24500521000176",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PETVILLE FERREIRA COSTA",
+    "businessName": "HADACHA COMERCIO E SERVICOS LTDA",
+    "phone": "79998747907",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937322095-699286106.jpg"
+  },
+  {
+    "cnpj": "26015430000170",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "WG PET SHOP",
+    "businessName": "wgtosas",
+    "phone": "79998682244",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937497157-263226925.jpg"
+  },
+  {
+    "cnpj": "42885626000172",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET HOUSE Santa Lúcia",
+    "businessName": "euler romildo calazans de oliveira",
+    "phone": "79996611729",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937647148-626190260.jpg"
+  },
+  {
+    "cnpj": "10894449000102",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "MERCEARIA DAS RAÇÕES",
+    "businessName": "Santos e pinheiro comercio de rações LTDA",
+    "phone": "79999412385",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937718113-867214404.jpg"
+  },
+  {
+    "cnpj": "18070257000185",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET MANIA",
+    "businessName": "Jf clinica e centro de estetica veterinaria",
+    "phone": "79999389980",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937922571-645998178.jpg"
+  },
+  {
+    "cnpj": "45451363000181",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "Groomer Nata Estetica Pet",
+    "businessName": "Gabriel Nata Silva Lima",
+    "phone": "79996462229",
+    "avatar": "https://scapetsprod.s3.sa-east-1.amazonaws.com/empresas/1670937978159-424650850.jpg"
+  },
+  {
+    "cnpj": "12345678901234",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PetShop",
+    "businessName": "PetShop",
+    "phone": "79111111111",
+    "avatar": null
+  },
+  {
+    "cnpj": "22176829000182",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "ALFREDO GROOMER",
+    "businessName": "centro de estetica pet Alfredo groomer",
+    "phone": "79991131210",
+    "avatar": null
+  },
+  {
+    "cnpj": "49430760000128",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PITICAS BANHO E TOSA",
+    "businessName": "yandra oliveira santos menezes",
+    "phone": "79996057113",
+    "avatar": null
+  },
+  {
+    "cnpj": "26030699000126",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "SANTUÁRIO DOS CÃES",
+    "businessName": "EC empreendimentos",
+    "phone": "79999941705",
+    "avatar": null
+  },
+  {
+    "cnpj": "28505231000257",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PET HOUSE Jabotiana",
+    "businessName": "pethouse comercio e serviços ltda",
+    "phone": "79996321740",
+    "avatar": null
+  },
+  {
+    "cnpj": "33597969000140",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "SUPER FOFOS PET SHOP",
+    "businessName": "SUPER FOFOS PET SHOP",
+    "phone": "79998314807",
+    "avatar": null
+  },
+  {
+    "cnpj": "31187809000106",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "clinica veterinaria miados e latidos",
+    "businessName": "clinica veterinaria miados e latidos ltda",
+    "phone": "79996327471",
+    "avatar": null
+  },
+  {
+    "cnpj": "50273156000114",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "Dr. Zoo Clínica Veterinária e Hotel",
+    "businessName": "Dr. Zoo Clínica Veterinária e Hotel Ltda.",
+    "phone": "7921400836",
+    "avatar": null
+  },
+  {
+    "cnpj": "34174485000151",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "PONTO DO PET",
+    "businessName": "dikson wesley silva da paixao 05875068574",
+    "phone": "79999430751",
+    "avatar": null
+  },
+  {
+    "cnpj": "31438886000183",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "Chic Cão",
+    "businessName": "Evaneide Duarte Reis",
+    "phone": "79999411863",
+    "avatar": null
+  },
+  {
+    "cnpj": "39504496000176",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "DOG HOUSE PET SHOP HOSTEL ",
+    "businessName": "WEDSAY HIEL GOMES DOS SANTOS",
+    "phone": "79999234230",
+    "avatar": null
+  },
+  {
+    "cnpj": "50872474000100",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "AMICAO ",
+    "businessName": "NICSON SILVA DOS SANTOS ",
+    "phone": "79981032699",
+    "avatar": null
+  },
+  {
+    "cnpj": "38100367000150",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "Patitas pet shop",
+    "businessName": "Jannayna Andressa de Oliveira Tavares",
+    "phone": "79991829921",
+    "avatar": null
+  },
+  {
+    "cnpj": "51907692000197",
+    "commision": 15,
+    "isOpen": false,
+    "active": false,
+    "fantasyName": "ESQUINA DO PET",
+    "businessName": "GESSICA  JULIANA ALVES FIGUEIROA ",
+    "phone": "79996560272",
+    "avatar": null
+  }
+]
