@@ -5,32 +5,17 @@ const databaseCampanies = JSON.parse(
 );
 
 const storesRemodeled = databaseCampanies.map(
-  ({
-    cnpj,
-    comissao,
-    estabelecimento_aberto,
-    ativo,
-    nomeFantasia,
-    razaoSocial,
-    telefoneComercial,
-    image,
-  }) => {
-    if (estabelecimento_aberto === 1) estabelecimento_aberto = true;
-    else estabelecimento_aberto = false;
-
-    if (ativo === 1) ativo = true;
-    else ativo = false;
-
+  ({ cnpj, nomeFantasia, razaoSocial, telefoneComercial, image }) => {
     if (image) if (image.slice(-3) !== "jpg") image = null;
 
     return {
-      cnpj,
-      commision: comissao,
-      isOpen: estabelecimento_aberto,
-      active: ativo,
+      cnpj: cnpj.$numberLong,
+      commision: 15,
+      isOpen: false,
+      active: false,
       fantasyName: nomeFantasia,
       businessName: razaoSocial,
-      phone: telefoneComercial,
+      phone: telefoneComercial.$numberLong,
       avatar: image,
     };
   }
